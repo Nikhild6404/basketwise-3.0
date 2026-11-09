@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Maybe/No,0.784,0.833,0.808,270.0
+Yes,0.735,0.668,0.7,187.0
+accuracy,0.766,0.766,0.766,0.766
+macro avg,0.76,0.751,0.754,457.0
+weighted avg,0.764,0.766,0.764,457.0

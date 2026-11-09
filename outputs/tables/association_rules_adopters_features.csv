@@ -1,0 +1,15 @@
+family,rule,support,confidence,lift,leverage,conviction
+feature -> feature,budget_planner + loyalty_wallet + price_compare  ->  shared_list,0.094,0.729,1.287,0.021,1.601
+feature -> feature,price_compare + wishlist_alerts  ->  price_history,0.376,0.638,1.277,0.082,1.382
+feature -> feature,smart_basket + wishlist_alerts  ->  price_history,0.38,0.622,1.246,0.075,1.324
+feature -> feature,price_compare + price_history  ->  wishlist_alerts,0.376,0.94,1.239,0.072,4.0
+feature -> feature,budget_planner + loyalty_wallet  ->  shared_list,0.113,0.694,1.226,0.021,1.418
+feature -> feature,promo_digest + wishlist_alerts  ->  price_history,0.283,0.605,1.211,0.049,1.266
+feature -> feature,delivery_fee_compare + wishlist_alerts  ->  price_history,0.244,0.603,1.207,0.042,1.26
+feature -> feature,price_history  ->  wishlist_alerts,0.454,0.909,1.198,0.075,2.644
+feature -> feature,loyalty_wallet + price_compare + promo_digest  ->  shared_list,0.103,0.642,1.133,0.012,1.21
+feature -> feature,loyalty_wallet + price_history + smart_basket  ->  delivery_fee_compare,0.091,0.613,1.124,0.01,1.175
+feature -> feature,loyalty_wallet + price_history + wishlist_alerts  ->  price_compare,0.144,0.856,1.121,0.015,1.641
+feature -> feature,budget_planner  ->  shared_list,0.309,0.632,1.116,0.032,1.178
+feature -> feature,loyalty_wallet + promo_digest + wishlist_alerts  ->  shared_list,0.103,0.631,1.114,0.011,1.175
+feature -> feature,loyalty_wallet + price_history + wishlist_alerts  ->  delivery_fee_compare,0.101,0.6,1.101,0.009,1.138

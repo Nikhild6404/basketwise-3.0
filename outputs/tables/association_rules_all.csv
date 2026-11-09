@@ -1,0 +1,308 @@
+family,rule,support,confidence,lift,leverage,conviction
+mixed -> challenge,bad_substitutions + delivery_fee_compare + wishlist_alerts  ->  hidden_delivery_fees,0.14,0.817,1.955,0.068,3.185
+mixed -> challenge,bad_substitutions + delivery_fee_compare + time_comparing  ->  hidden_delivery_fees,0.116,0.812,1.943,0.056,3.1
+mixed -> challenge,bad_substitutions + delivery_fee_compare  ->  hidden_delivery_fees,0.201,0.781,1.868,0.093,2.655
+mixed -> challenge,delivery_fee_compare + promo_overload + wishlist_alerts  ->  hidden_delivery_fees,0.145,0.726,1.737,0.062,2.124
+mixed -> challenge,delivery_fee_compare + out_of_stock + wishlist_alerts  ->  hidden_delivery_fees,0.092,0.723,1.729,0.039,2.1
+mixed -> challenge,bad_substitutions + price_history  ->  hidden_delivery_fees,0.101,0.706,1.689,0.041,1.98
+challenge -> challenge,bad_substitutions + time_comparing  ->  hidden_delivery_fees,0.148,0.705,1.686,0.06,1.972
+mixed -> challenge,price_inconsistency + time_comparing + wishlist_alerts  ->  expired_offers,0.167,0.663,1.683,0.068,1.799
+mixed -> challenge,bad_substitutions + wishlist_alerts  ->  hidden_delivery_fees,0.175,0.697,1.668,0.07,1.922
+mixed -> feature,price_compare + price_inconsistency + wishlist_alerts  ->  price_history,0.158,0.602,1.665,0.063,1.604
+mixed -> challenge,bad_substitutions + price_compare  ->  hidden_delivery_fees,0.148,0.696,1.664,0.059,1.913
+mixed -> challenge,price_history + price_inconsistency + time_comparing  ->  expired_offers,0.111,0.653,1.657,0.044,1.745
+mixed -> challenge,budget_planner + time_comparing + wishlist_alerts  ->  expired_offers,0.099,0.652,1.655,0.039,1.742
+mixed -> challenge,delivery_fee_compare + promo_overload  ->  hidden_delivery_fees,0.21,0.691,1.654,0.083,1.885
+mixed -> challenge,bad_substitutions + smart_basket  ->  hidden_delivery_fees,0.18,0.686,1.641,0.07,1.854
+feature -> challenge,delivery_fee_compare + wishlist_alerts  ->  hidden_delivery_fees,0.219,0.682,1.631,0.085,1.83
+mixed -> feature,hidden_delivery_fees + promo_overload + wishlist_alerts  ->  delivery_fee_compare,0.145,0.826,1.631,0.056,2.83
+mixed -> challenge,price_compare + time_comparing + wishlist_alerts  ->  expired_offers,0.163,0.641,1.627,0.063,1.687
+mixed -> challenge,price_history + time_comparing + wishlist_alerts  ->  expired_offers,0.123,0.64,1.624,0.047,1.683
+mixed -> feature,bad_substitutions + hidden_delivery_fees + promo_digest  ->  delivery_fee_compare,0.11,0.817,1.614,0.042,2.699
+feature -> challenge,delivery_fee_compare + price_history  ->  hidden_delivery_fees,0.126,0.673,1.609,0.048,1.777
+mixed -> challenge,price_inconsistency + promo_digest + time_comparing  ->  expired_offers,0.129,0.632,1.603,0.048,1.646
+mixed -> challenge,promo_digest + time_comparing + wishlist_alerts  ->  expired_offers,0.133,0.628,1.594,0.05,1.629
+mixed -> challenge,out_of_stock + price_compare + wishlist_alerts  ->  expired_offers,0.089,0.628,1.594,0.033,1.629
+mixed -> feature,expired_offers + price_compare + price_history  ->  wishlist_alerts,0.131,0.934,1.591,0.049,6.222
+mixed -> challenge,price_compare + price_inconsistency + time_comparing  ->  expired_offers,0.154,0.626,1.589,0.057,1.62
+mixed -> challenge,price_compare + price_history + time_comparing  ->  expired_offers,0.102,0.624,1.584,0.038,1.612
+mixed -> challenge,budget_planner + price_inconsistency + wishlist_alerts  ->  expired_offers,0.102,0.621,1.577,0.037,1.6
+mixed -> challenge,price_compare + price_inconsistency + wishlist_alerts  ->  expired_offers,0.163,0.621,1.576,0.06,1.598
+mixed -> challenge,price_history + smart_basket + time_comparing  ->  expired_offers,0.122,0.62,1.574,0.044,1.595
+mixed -> challenge,price_history + price_inconsistency + smart_basket  ->  expired_offers,0.115,0.618,1.568,0.042,1.585
+feature -> challenge,budget_planner + price_compare + wishlist_alerts  ->  expired_offers,0.111,0.616,1.563,0.04,1.578
+challenge -> challenge,bad_substitutions  ->  hidden_delivery_fees,0.257,0.652,1.56,0.092,1.674
+challenge -> challenge,hidden_delivery_fees  ->  bad_substitutions,0.257,0.615,1.56,0.092,1.573
+mixed -> challenge,price_history + promo_digest + time_comparing  ->  expired_offers,0.084,0.614,1.56,0.03,1.572
+mixed -> challenge,price_history + price_inconsistency + wishlist_alerts  ->  expired_offers,0.121,0.614,1.558,0.043,1.57
+mixed -> challenge,price_compare + promo_digest + time_comparing  ->  expired_offers,0.129,0.614,1.557,0.046,1.568
+feature -> challenge,price_history + smart_basket + wishlist_alerts  ->  expired_offers,0.135,0.613,1.556,0.048,1.566
+mixed -> challenge,price_inconsistency + smart_basket + wishlist_alerts  ->  expired_offers,0.172,0.611,1.552,0.061,1.559
+mixed -> feature,expired_offers + price_history + price_inconsistency  ->  wishlist_alerts,0.121,0.909,1.55,0.043,4.563
+feature -> challenge,budget_planner + promo_digest + wishlist_alerts  ->  expired_offers,0.095,0.611,1.55,0.034,1.556
+mixed -> challenge,expired_offers + price_history + time_comparing  ->  price_inconsistency,0.111,0.79,1.543,0.039,2.324
+mixed -> challenge,price_compare + price_history + price_inconsistency  ->  expired_offers,0.105,0.608,1.542,0.037,1.544
+challenge -> challenge,price_inconsistency + promo_overload + time_comparing  ->  expired_offers,0.114,0.606,1.539,0.04,1.54
+feature -> challenge,price_compare + promo_digest + wishlist_alerts  ->  expired_offers,0.147,0.606,1.539,0.051,1.539
+feature -> challenge,delivery_fee_compare  ->  hidden_delivery_fees,0.325,0.642,1.535,0.113,1.624
+challenge -> feature,hidden_delivery_fees  ->  delivery_fee_compare,0.325,0.777,1.535,0.113,2.216
+mixed -> challenge,budget_planner + price_inconsistency + time_comparing  ->  expired_offers,0.1,0.604,1.533,0.035,1.53
+mixed -> challenge,expired_offers + time_comparing + wishlist_alerts  ->  price_inconsistency,0.167,0.784,1.532,0.058,2.261
+mixed -> challenge,smart_basket + time_comparing + wishlist_alerts  ->  expired_offers,0.178,0.603,1.531,0.062,1.528
+feature -> feature,price_compare + price_history  ->  wishlist_alerts,0.22,0.895,1.526,0.076,3.947
+mixed -> challenge,budget_planner + promo_digest + time_comparing  ->  expired_offers,0.087,0.6,1.523,0.03,1.515
+challenge -> challenge,expired_offers + price_inconsistency  ->  time_comparing,0.203,0.807,1.521,0.07,2.427
+mixed -> challenge,price_compare + price_history + time_comparing  ->  price_inconsistency,0.127,0.775,1.515,0.043,2.171
+mixed -> challenge,expired_offers + price_history + smart_basket  ->  time_comparing,0.122,0.801,1.511,0.041,2.365
+mixed -> feature,expired_offers + price_history  ->  wishlist_alerts,0.164,0.879,1.499,0.055,3.426
+mixed -> challenge,price_history + shared_list + time_comparing  ->  price_inconsistency,0.094,0.767,1.498,0.031,2.094
+mixed -> challenge,price_history + promo_digest + time_comparing  ->  price_inconsistency,0.104,0.763,1.491,0.034,2.06
+mixed -> challenge,price_history + time_comparing + wishlist_alerts  ->  price_inconsistency,0.146,0.763,1.491,0.048,2.059
+mixed -> challenge,expired_offers + price_history + promo_overload  ->  time_comparing,0.08,0.789,1.488,0.026,2.228
+mixed -> challenge,expired_offers + price_history + smart_basket  ->  price_inconsistency,0.115,0.758,1.481,0.037,2.018
+mixed -> challenge,price_history + price_inconsistency + smart_basket  ->  time_comparing,0.146,0.782,1.475,0.047,2.158
+challenge -> challenge,expired_offers + time_comparing  ->  price_inconsistency,0.203,0.751,1.467,0.065,1.961
+mixed -> challenge,expired_offers + price_compare + price_history  ->  price_inconsistency,0.105,0.75,1.465,0.033,1.953
+mixed -> challenge,budget_planner + time_comparing + wishlist_alerts  ->  price_inconsistency,0.113,0.75,1.465,0.036,1.953
+mixed -> feature,bad_substitutions + expired_offers + price_compare  ->  wishlist_alerts,0.081,0.855,1.456,0.025,2.842
+mixed -> challenge,promo_digest + time_comparing + wishlist_alerts  ->  price_inconsistency,0.158,0.744,1.454,0.049,1.908
+feature -> challenge,price_compare + price_history + smart_basket  ->  price_inconsistency,0.143,0.744,1.453,0.045,1.904
+feature -> challenge,price_compare + price_history + promo_digest  ->  price_inconsistency,0.111,0.743,1.451,0.034,1.897
+mixed -> feature,price_history + price_inconsistency  ->  wishlist_alerts,0.197,0.851,1.45,0.061,2.774
+mixed -> challenge,price_compare + time_comparing + wishlist_alerts  ->  price_inconsistency,0.187,0.735,1.437,0.057,1.846
+mixed -> challenge,expired_offers + smart_basket + wishlist_alerts  ->  price_inconsistency,0.172,0.735,1.436,0.052,1.841
+feature -> challenge,price_history + promo_digest + wishlist_alerts  ->  price_inconsistency,0.125,0.734,1.434,0.038,1.835
+feature -> challenge,price_history + shared_list + wishlist_alerts  ->  price_inconsistency,0.105,0.73,1.426,0.031,1.808
+feature -> challenge,price_history + smart_basket + wishlist_alerts  ->  price_inconsistency,0.161,0.73,1.425,0.048,1.805
+mixed -> challenge,expired_offers + price_history  ->  time_comparing,0.141,0.756,1.425,0.042,1.924
+mixed -> challenge,expired_offers + price_compare + smart_basket  ->  price_inconsistency,0.157,0.728,1.423,0.047,1.798
+mixed -> feature,expired_offers + out_of_stock + price_compare  ->  wishlist_alerts,0.089,0.835,1.423,0.026,2.505
+feature -> challenge,price_history + promo_digest + smart_basket  ->  price_inconsistency,0.118,0.727,1.421,0.035,1.79
+feature -> challenge,price_history + shared_list + smart_basket  ->  price_inconsistency,0.099,0.727,1.42,0.029,1.788
+mixed -> challenge,price_history + time_comparing  ->  price_inconsistency,0.17,0.725,1.417,0.05,1.775
+mixed -> feature,expired_offers + hidden_delivery_fees + promo_digest  ->  wishlist_alerts,0.083,0.831,1.415,0.024,2.439
+challenge -> feature,expired_offers + price_inconsistency  ->  wishlist_alerts,0.209,0.828,1.411,0.061,2.406
+mixed -> challenge,expired_offers + promo_digest + smart_basket  ->  price_inconsistency,0.133,0.721,1.409,0.039,1.75
+mixed -> challenge,expired_offers + smart_basket  ->  time_comparing,0.223,0.747,1.408,0.065,1.855
+mixed -> feature,price_history + price_inconsistency + wishlist_alerts  ->  price_compare,0.158,0.803,1.402,0.045,2.167
+mixed -> challenge,expired_offers + price_history  ->  price_inconsistency,0.133,0.715,1.397,0.038,1.711
+feature -> challenge,price_compare + smart_basket + wishlist_alerts  ->  price_inconsistency,0.21,0.715,1.396,0.06,1.71
+mixed -> feature,expired_offers + promo_digest + shared_list  ->  price_compare,0.111,0.799,1.396,0.032,2.129
+mixed -> challenge,price_inconsistency + smart_basket  ->  time_comparing,0.284,0.737,1.389,0.08,1.784
+mixed -> challenge,price_history + price_inconsistency  ->  time_comparing,0.17,0.735,1.386,0.047,1.774
+feature -> challenge,price_compare + promo_digest + wishlist_alerts  ->  price_inconsistency,0.172,0.708,1.384,0.048,1.673
+feature -> challenge,promo_digest + smart_basket + wishlist_alerts  ->  price_inconsistency,0.176,0.708,1.383,0.049,1.67
+mixed -> feature,expired_offers + price_history + promo_digest  ->  price_compare,0.088,0.789,1.378,0.024,2.028
+feature -> challenge,price_compare + price_history  ->  price_inconsistency,0.173,0.704,1.375,0.047,1.648
+mixed -> challenge,budget_planner + time_comparing  ->  price_inconsistency,0.166,0.703,1.374,0.045,1.644
+feature -> challenge,promo_digest + shared_list + wishlist_alerts  ->  price_inconsistency,0.13,0.701,1.37,0.035,1.634
+mixed -> feature,expired_offers + price_compare  ->  wishlist_alerts,0.227,0.804,1.37,0.061,2.107
+feature -> challenge,price_history + smart_basket  ->  time_comparing,0.196,0.726,1.369,0.053,1.715
+mixed -> feature,bad_substitutions + smart_basket  ->  delivery_fee_compare,0.181,0.692,1.368,0.049,1.605
+challenge -> feature,bad_substitutions + expired_offers  ->  wishlist_alerts,0.111,0.802,1.367,0.03,2.091
+mixed -> feature,loyalty_wallet + price_inconsistency + time_comparing  ->  smart_basket,0.11,0.885,1.365,0.029,3.058
+mixed -> challenge,price_compare + time_comparing  ->  price_inconsistency,0.246,0.698,1.364,0.066,1.618
+mixed -> challenge,time_comparing + wishlist_alerts  ->  price_inconsistency,0.252,0.697,1.362,0.067,1.611
+feature -> challenge,price_history + shared_list  ->  price_inconsistency,0.124,0.694,1.356,0.033,1.596
+challenge -> feature,expired_offers + price_inconsistency  ->  price_compare,0.196,0.776,1.355,0.051,1.909
+mixed -> challenge,expired_offers + price_compare  ->  price_inconsistency,0.196,0.693,1.354,0.051,1.591
+mixed -> feature,bad_substitutions + budget_planner  ->  delivery_fee_compare,0.093,0.685,1.354,0.024,1.57
+mixed -> challenge,expired_offers + wishlist_alerts  ->  price_inconsistency,0.209,0.691,1.351,0.054,1.582
+mixed -> feature,bad_substitutions + promo_digest  ->  delivery_fee_compare,0.138,0.684,1.351,0.036,1.562
+feature -> feature,price_history  ->  wishlist_alerts,0.286,0.791,1.348,0.074,1.976
+feature -> challenge,price_history + smart_basket  ->  price_inconsistency,0.186,0.69,1.348,0.048,1.573
+feature -> challenge,price_history + wishlist_alerts  ->  price_inconsistency,0.197,0.69,1.348,0.051,1.573
+feature -> feature,price_history + wishlist_alerts  ->  price_compare,0.22,0.77,1.345,0.056,1.859
+mixed -> feature,expired_offers + price_compare + promo_overload  ->  promo_digest,0.106,0.71,1.345,0.027,1.626
+mixed -> challenge,expired_offers + smart_basket  ->  price_inconsistency,0.205,0.688,1.344,0.053,1.565
+feature -> challenge,price_history + promo_digest  ->  price_inconsistency,0.144,0.687,1.342,0.037,1.558
+mixed -> feature,out_of_stock + price_compare + price_inconsistency  ->  wishlist_alerts,0.092,0.785,1.338,0.023,1.922
+feature -> challenge,budget_planner + price_history  ->  price_inconsistency,0.104,0.683,1.335,0.026,1.542
+mixed -> feature,expired_offers + price_history + price_inconsistency  ->  smart_basket,0.115,0.864,1.333,0.029,2.59
+mixed -> challenge,price_inconsistency + wishlist_alerts  ->  time_comparing,0.252,0.707,1.332,0.063,1.601
+mixed -> challenge,budget_planner + expired_offers  ->  price_inconsistency,0.127,0.679,1.328,0.031,1.523
+mixed -> challenge,expiry_tracker + time_comparing  ->  price_inconsistency,0.098,0.678,1.325,0.024,1.516
+mixed -> feature,expired_offers + promo_digest  ->  price_compare,0.182,0.758,1.324,0.044,1.766
+mixed -> feature,budget_planner + promo_overload + shared_list  ->  price_compare,0.087,0.756,1.32,0.021,1.751
+mixed -> feature,price_inconsistency + promo_digest + time_comparing  ->  wishlist_alerts,0.158,0.774,1.319,0.038,1.83
+mixed -> feature,price_history + price_inconsistency + promo_overload  ->  promo_digest,0.087,0.696,1.319,0.021,1.554
+mixed -> challenge,price_compare + price_inconsistency  ->  time_comparing,0.246,0.699,1.319,0.059,1.562
+feature -> challenge,smart_basket + wishlist_alerts  ->  time_comparing,0.294,0.699,1.318,0.071,1.561
+mixed -> feature,budget_planner + promo_overload + time_comparing  ->  promo_digest,0.082,0.694,1.316,0.02,1.546
+mixed -> feature,expired_offers + price_history  ->  price_compare,0.14,0.753,1.315,0.034,1.73
+mixed -> feature,budget_planner + expired_offers  ->  price_compare,0.14,0.753,1.315,0.034,1.73
+mixed -> feature,expired_offers + wishlist_alerts  ->  price_compare,0.227,0.751,1.312,0.054,1.719
+mixed -> challenge,expired_offers + promo_digest  ->  price_inconsistency,0.161,0.671,1.312,0.038,1.485
+challenge -> feature,expired_offers  ->  wishlist_alerts,0.302,0.766,1.306,0.071,1.768
+mixed -> feature,price_history + price_inconsistency  ->  price_compare,0.173,0.747,1.305,0.04,1.69
+feature -> challenge,price_compare + wishlist_alerts  ->  price_inconsistency,0.263,0.668,1.304,0.061,1.469
+feature -> challenge,budget_planner + wishlist_alerts  ->  price_inconsistency,0.165,0.667,1.304,0.038,1.468
+mixed -> feature,expired_offers + shared_list  ->  price_compare,0.168,0.746,1.303,0.039,1.685
+mixed -> feature,loyalty_wallet + shared_list + time_comparing  ->  price_compare,0.082,0.746,1.303,0.019,1.684
+feature -> challenge,smart_basket + wishlist_alerts  ->  price_inconsistency,0.281,0.667,1.303,0.065,1.465
+feature -> feature,promo_digest + shared_list + wishlist_alerts  ->  price_compare,0.138,0.746,1.302,0.032,1.68
+mixed -> feature,loyalty_wallet + time_comparing  ->  smart_basket,0.166,0.844,1.302,0.039,2.255
+mixed -> feature,promo_digest + shared_list + time_comparing  ->  price_compare,0.13,0.745,1.302,0.03,1.678
+challenge -> challenge,expired_offers  ->  time_comparing,0.271,0.687,1.295,0.062,1.501
+challenge -> feature,bad_substitutions  ->  delivery_fee_compare,0.258,0.654,1.291,0.058,1.426
+feature -> challenge,promo_digest + wishlist_alerts  ->  price_inconsistency,0.224,0.66,1.289,0.05,1.435
+mixed -> feature,price_inconsistency + wishlist_alerts  ->  price_compare,0.263,0.737,1.288,0.059,1.627
+feature -> challenge,price_history + shared_list  ->  time_comparing,0.122,0.682,1.286,0.027,1.476
+mixed -> challenge,bad_substitutions + promo_digest  ->  promo_overload,0.144,0.714,1.285,0.032,1.553
+feature -> challenge,price_compare + smart_basket  ->  price_inconsistency,0.277,0.658,1.285,0.061,1.426
+mixed -> feature,price_inconsistency + promo_digest  ->  price_compare,0.221,0.73,1.275,0.048,1.583
+mixed -> feature,price_compare + price_inconsistency  ->  wishlist_alerts,0.263,0.748,1.274,0.057,1.637
+challenge -> feature,expired_offers + promo_overload  ->  promo_digest,0.145,0.672,1.273,0.031,1.439
+mixed -> feature,bad_substitutions + price_compare + price_inconsistency  ->  smart_basket,0.101,0.825,1.273,0.022,2.011
+feature -> feature,budget_planner + wishlist_alerts  ->  price_compare,0.18,0.727,1.27,0.038,1.567
+feature -> challenge,expiry_tracker + wishlist_alerts  ->  price_inconsistency,0.102,0.649,1.269,0.022,1.392
+feature -> challenge,price_compare + promo_digest  ->  price_inconsistency,0.221,0.648,1.266,0.046,1.387
+feature -> challenge,budget_planner + price_compare  ->  price_inconsistency,0.176,0.647,1.263,0.037,1.381
+mixed -> feature,price_inconsistency + promo_digest  ->  wishlist_alerts,0.224,0.741,1.263,0.047,1.595
+feature -> challenge,shared_list + wishlist_alerts  ->  price_inconsistency,0.201,0.646,1.261,0.042,1.377
+mixed -> feature,budget_planner + price_inconsistency  ->  price_compare,0.176,0.722,1.261,0.037,1.537
+mixed -> feature,bad_substitutions + hidden_delivery_fees + promo_digest  ->  wishlist_alerts,0.1,0.74,1.261,0.021,1.588
+challenge -> feature,price_inconsistency + time_comparing  ->  price_compare,0.246,0.722,1.261,0.051,1.537
+challenge -> feature,price_inconsistency + time_comparing  ->  wishlist_alerts,0.252,0.74,1.26,0.052,1.586
+mixed -> feature,loyalty_wallet + price_compare + price_inconsistency  ->  smart_basket,0.107,0.817,1.26,0.022,1.919
+challenge -> feature,expired_offers + price_inconsistency  ->  smart_basket,0.205,0.815,1.258,0.042,1.904
+mixed -> feature,expired_offers + price_history  ->  smart_basket,0.152,0.815,1.257,0.031,1.898
+challenge -> challenge,time_comparing  ->  price_inconsistency,0.341,0.643,1.256,0.069,1.366
+challenge -> challenge,price_inconsistency  ->  time_comparing,0.341,0.666,1.256,0.069,1.406
+mixed -> feature,price_inconsistency + smart_basket  ->  price_compare,0.277,0.718,1.255,0.056,1.517
+challenge -> feature,time_comparing  ->  smart_basket,0.431,0.812,1.253,0.087,1.871
+feature -> challenge,smart_basket  ->  time_comparing,0.431,0.664,1.253,0.087,1.399
+feature -> challenge,price_history  ->  price_inconsistency,0.232,0.641,1.252,0.047,1.36
+challenge -> feature,expired_offers + hidden_delivery_fees + promo_overload  ->  smart_basket,0.08,0.811,1.251,0.016,1.862
+mixed -> feature,loyalty_wallet + price_compare + time_comparing  ->  shared_list,0.082,0.641,1.251,0.017,1.359
+challenge -> feature,expired_offers  ->  price_compare,0.282,0.716,1.251,0.057,1.506
+challenge -> challenge,expired_offers  ->  price_inconsistency,0.252,0.64,1.25,0.05,1.355
+mixed -> feature,budget_planner + promo_overload  ->  promo_digest,0.135,0.659,1.248,0.027,1.384
+feature -> challenge,loyalty_wallet + price_compare + shared_list  ->  time_comparing,0.082,0.661,1.246,0.016,1.384
+feature -> feature,promo_digest + wishlist_alerts  ->  price_compare,0.242,0.713,1.245,0.048,1.489
+feature -> feature,budget_planner + shared_list  ->  price_compare,0.174,0.712,1.244,0.034,1.486
+mixed -> feature,budget_planner + time_comparing  ->  price_compare,0.168,0.712,1.244,0.033,1.486
+feature -> feature,price_history + smart_basket  ->  price_compare,0.192,0.712,1.243,0.038,1.484
+mixed -> feature,bad_substitutions + price_compare  ->  wishlist_alerts,0.155,0.729,1.243,0.03,1.527
+mixed -> feature,price_inconsistency + smart_basket  ->  wishlist_alerts,0.281,0.728,1.241,0.054,1.521
+mixed -> feature,price_history + price_inconsistency  ->  smart_basket,0.186,0.804,1.24,0.036,1.793
+mixed -> feature,shared_list + time_comparing  ->  price_compare,0.205,0.71,1.239,0.04,1.472
+mixed -> feature,expired_offers + promo_digest + promo_overload  ->  smart_basket,0.116,0.803,1.239,0.022,1.786
+mixed -> feature,price_history + promo_overload  ->  promo_digest,0.133,0.653,1.238,0.026,1.362
+mixed -> feature,budget_planner + expired_offers  ->  promo_digest,0.122,0.653,1.237,0.023,1.361
+mixed -> feature,price_compare + time_comparing  ->  wishlist_alerts,0.255,0.723,1.232,0.048,1.492
+mixed -> feature,time_comparing + wishlist_alerts  ->  price_compare,0.255,0.705,1.23,0.048,1.447
+feature -> feature,shared_list + wishlist_alerts  ->  price_compare,0.219,0.704,1.229,0.041,1.442
+mixed -> feature,out_of_stock + promo_overload + wishlist_alerts  ->  delivery_fee_compare,0.084,0.622,1.228,0.016,1.306
+feature -> challenge,loyalty_wallet + promo_digest  ->  promo_overload,0.135,0.682,1.228,0.025,1.399
+challenge -> feature,bad_substitutions + time_comparing  ->  wishlist_alerts,0.151,0.721,1.228,0.028,1.479
+feature -> feature,promo_digest + shared_list  ->  price_compare,0.203,0.703,1.227,0.038,1.437
+mixed -> feature,price_compare + promo_overload  ->  promo_digest,0.202,0.647,1.227,0.037,1.339
+feature -> challenge,price_history  ->  time_comparing,0.235,0.65,1.225,0.043,1.342
+feature -> feature,shared_list + smart_basket  ->  price_compare,0.243,0.7,1.223,0.044,1.426
+mixed -> challenge,hidden_delivery_fees + promo_digest  ->  promo_overload,0.156,0.679,1.223,0.028,1.386
+challenge -> feature,price_inconsistency + promo_overload  ->  promo_digest,0.18,0.645,1.223,0.033,1.331
+mixed -> feature,expired_offers + price_compare  ->  promo_digest,0.182,0.645,1.222,0.033,1.329
+feature -> challenge,promo_digest + smart_basket  ->  price_inconsistency,0.23,0.624,1.219,0.041,1.299
+feature -> challenge,price_compare + wishlist_alerts  ->  time_comparing,0.255,0.647,1.219,0.046,1.329
+mixed -> feature,price_compare + price_inconsistency  ->  smart_basket,0.277,0.787,1.213,0.049,1.648
+mixed -> feature,price_inconsistency + wishlist_alerts  ->  smart_basket,0.281,0.786,1.213,0.049,1.648
+mixed -> feature,budget_planner + price_compare + promo_overload  ->  smart_basket,0.11,0.784,1.21,0.019,1.631
+feature -> challenge,shared_list + smart_basket  ->  price_inconsistency,0.215,0.618,1.208,0.037,1.279
+mixed -> feature,price_compare + promo_digest + time_comparing  ->  shared_list,0.13,0.619,1.208,0.022,1.279
+feature -> feature,price_compare + price_history  ->  smart_basket,0.192,0.782,1.206,0.033,1.612
+challenge -> challenge,hidden_delivery_fees + out_of_stock  ->  promo_overload,0.109,0.67,1.206,0.019,1.347
+mixed -> feature,bad_substitutions + price_history  ->  smart_basket,0.112,0.779,1.201,0.019,1.589
+mixed -> feature,promo_overload + wishlist_alerts  ->  promo_digest,0.217,0.634,1.201,0.036,1.289
+challenge -> feature,price_inconsistency  ->  price_compare,0.352,0.687,1.2,0.059,1.367
+feature -> challenge,price_compare  ->  price_inconsistency,0.352,0.614,1.2,0.059,1.266
+feature -> feature,budget_planner + wishlist_alerts  ->  promo_digest,0.156,0.632,1.198,0.026,1.283
+mixed -> feature,hidden_delivery_fees + promo_digest  ->  wishlist_alerts,0.161,0.701,1.194,0.026,1.382
+feature -> challenge,budget_planner  ->  price_inconsistency,0.244,0.611,1.194,0.04,1.255
+mixed -> feature,expired_offers + price_compare + promo_digest  ->  shared_list,0.111,0.611,1.193,0.018,1.255
+mixed -> feature,loyalty_wallet + promo_overload + smart_basket  ->  delivery_fee_compare,0.091,0.604,1.192,0.015,1.246
+feature -> feature,budget_planner  ->  price_compare,0.273,0.682,1.191,0.044,1.345
+feature -> challenge,expiry_tracker + smart_basket  ->  price_inconsistency,0.104,0.61,1.191,0.017,1.251
+feature -> feature,promo_digest + smart_basket  ->  price_compare,0.252,0.682,1.191,0.04,1.344
+mixed -> feature,price_inconsistency + wishlist_alerts  ->  promo_digest,0.224,0.628,1.191,0.036,1.271
+feature -> feature,budget_planner  ->  shared_list,0.244,0.61,1.19,0.039,1.249
+mixed -> feature,price_compare + price_inconsistency  ->  promo_digest,0.221,0.628,1.19,0.035,1.269
+feature -> feature,price_history  ->  price_compare,0.246,0.68,1.188,0.039,1.337
+feature -> challenge,promo_digest + shared_list  ->  price_inconsistency,0.176,0.608,1.188,0.028,1.245
+challenge -> feature,price_inconsistency  ->  wishlist_alerts,0.357,0.697,1.188,0.056,1.364
+feature -> challenge,wishlist_alerts  ->  price_inconsistency,0.357,0.608,1.188,0.056,1.245
+challenge -> feature,hidden_delivery_fees + out_of_stock  ->  wishlist_alerts,0.113,0.697,1.188,0.018,1.363
+mixed -> feature,budget_planner + hidden_delivery_fees  ->  promo_digest,0.104,0.625,1.184,0.016,1.26
+feature -> feature,price_compare + shared_list  ->  promo_digest,0.203,0.625,1.184,0.032,1.258
+mixed -> challenge,delivery_fee_compare + out_of_stock  ->  promo_overload,0.125,0.657,1.183,0.019,1.296
+mixed -> feature,price_history + price_inconsistency  ->  promo_digest,0.144,0.622,1.178,0.022,1.249
+feature -> feature,budget_planner + price_compare  ->  promo_digest,0.169,0.62,1.176,0.025,1.245
+feature -> feature,budget_planner + shared_list  ->  promo_digest,0.151,0.62,1.175,0.023,1.244
+mixed -> feature,bad_substitutions + promo_digest  ->  wishlist_alerts,0.139,0.689,1.175,0.021,1.33
+feature -> feature,price_compare  ->  wishlist_alerts,0.394,0.688,1.172,0.058,1.324
+feature -> feature,wishlist_alerts  ->  price_compare,0.394,0.671,1.172,0.058,1.3
+mixed -> feature,price_compare + price_inconsistency + promo_digest  ->  shared_list,0.133,0.6,1.172,0.019,1.221
+mixed -> feature,bad_substitutions + price_inconsistency + smart_basket  ->  promo_digest,0.089,0.617,1.17,0.013,1.235
+challenge -> feature,expired_offers  ->  smart_basket,0.299,0.758,1.169,0.043,1.454
+mixed -> feature,hidden_delivery_fees + price_history + wishlist_alerts  ->  promo_digest,0.083,0.616,1.168,0.012,1.231
+mixed -> feature,bad_substitutions + smart_basket  ->  wishlist_alerts,0.179,0.684,1.166,0.025,1.308
+mixed -> feature,budget_planner + time_comparing  ->  promo_digest,0.145,0.615,1.165,0.021,1.226
+feature -> feature,price_compare + wishlist_alerts  ->  promo_digest,0.242,0.615,1.165,0.034,1.226
+challenge -> feature,hidden_delivery_fees + price_inconsistency  ->  promo_digest,0.133,0.614,1.164,0.019,1.224
+challenge -> feature,time_comparing  ->  wishlist_alerts,0.362,0.682,1.162,0.05,1.298
+feature -> challenge,wishlist_alerts  ->  time_comparing,0.362,0.616,1.162,0.05,1.224
+challenge -> feature,price_inconsistency  ->  smart_basket,0.385,0.753,1.161,0.053,1.422
+mixed -> feature,price_inconsistency + shared_list  ->  promo_digest,0.176,0.613,1.161,0.024,1.219
+feature -> feature,expiry_tracker + price_compare  ->  promo_digest,0.091,0.613,1.161,0.013,1.219
+challenge -> feature,time_comparing  ->  price_compare,0.352,0.664,1.16,0.049,1.273
+feature -> challenge,price_compare  ->  time_comparing,0.352,0.615,1.16,0.049,1.221
+mixed -> feature,out_of_stock + price_compare  ->  promo_digest,0.121,0.611,1.158,0.016,1.215
+challenge -> feature,out_of_stock + price_inconsistency  ->  promo_digest,0.11,0.611,1.158,0.015,1.214
+mixed -> feature,budget_planner + out_of_stock  ->  promo_digest,0.083,0.61,1.157,0.011,1.212
+feature -> feature,shared_list + smart_basket + wishlist_alerts  ->  promo_digest,0.138,0.609,1.155,0.018,1.209
+challenge -> feature,expired_offers  ->  promo_digest,0.24,0.609,1.154,0.032,1.209
+feature -> feature,price_history  ->  smart_basket,0.27,0.747,1.152,0.036,1.39
+feature -> challenge,budget_planner + promo_digest  ->  time_comparing,0.145,0.609,1.149,0.019,1.202
+feature -> feature,price_compare + price_history  ->  promo_digest,0.149,0.606,1.148,0.019,1.198
+mixed -> feature,budget_planner + price_inconsistency  ->  promo_digest,0.148,0.605,1.147,0.019,1.197
+challenge -> challenge,bad_substitutions  ->  promo_overload,0.25,0.636,1.144,0.032,1.22
+mixed -> feature,shared_list + time_comparing  ->  promo_digest,0.174,0.603,1.144,0.022,1.191
+mixed -> feature,hidden_delivery_fees + smart_basket + wishlist_alerts  ->  promo_digest,0.118,0.603,1.143,0.015,1.191
+feature -> feature,price_history + smart_basket  ->  promo_digest,0.163,0.602,1.142,0.02,1.188
+feature -> challenge,promo_digest  ->  promo_overload,0.334,0.633,1.14,0.041,1.212
+challenge -> feature,promo_overload  ->  promo_digest,0.334,0.602,1.14,0.041,1.185
+feature -> challenge,budget_planner + shared_list  ->  time_comparing,0.147,0.604,1.14,0.018,1.187
+mixed -> feature,hidden_delivery_fees + price_compare + smart_basket  ->  promo_digest,0.106,0.601,1.138,0.013,1.183
+mixed -> feature,price_inconsistency + smart_basket + time_comparing  ->  promo_digest,0.17,0.6,1.138,0.021,1.182
+challenge -> challenge,hidden_delivery_fees  ->  promo_overload,0.264,0.632,1.137,0.032,1.207
+feature -> challenge,promo_digest + shared_list  ->  time_comparing,0.174,0.602,1.135,0.021,1.181
+mixed -> feature,delivery_fee_compare + out_of_stock  ->  wishlist_alerts,0.127,0.666,1.134,0.015,1.236
+feature -> feature,price_compare  ->  smart_basket,0.421,0.735,1.134,0.05,1.327
+feature -> feature,smart_basket  ->  price_compare,0.421,0.649,1.134,0.05,1.218
+feature -> feature,delivery_fee_compare + promo_digest  ->  wishlist_alerts,0.182,0.665,1.133,0.021,1.232
+feature -> challenge,delivery_fee_compare + loyalty_wallet  ->  promo_overload,0.125,0.629,1.132,0.015,1.198
+mixed -> feature,budget_planner + promo_overload  ->  wishlist_alerts,0.136,0.664,1.131,0.016,1.23
+mixed -> feature,bad_substitutions + delivery_fee_compare  ->  wishlist_alerts,0.171,0.664,1.131,0.02,1.229
+feature -> feature,promo_digest  ->  price_compare,0.341,0.646,1.128,0.039,1.207
+challenge -> feature,bad_substitutions + out_of_stock  ->  wishlist_alerts,0.106,0.661,1.126,0.012,1.219
+mixed -> feature,bad_substitutions + shared_list  ->  wishlist_alerts,0.121,0.661,1.126,0.013,1.218
+feature -> feature,budget_planner  ->  smart_basket,0.292,0.729,1.124,0.032,1.297
+feature -> challenge,delivery_fee_compare + wishlist_alerts  ->  promo_overload,0.2,0.624,1.123,0.022,1.182
+mixed -> feature,delivery_fee_compare + promo_overload  ->  wishlist_alerts,0.2,0.659,1.123,0.022,1.211
+challenge -> feature,hidden_delivery_fees  ->  wishlist_alerts,0.275,0.658,1.121,0.03,1.208
+mixed -> feature,promo_digest + promo_overload + shared_list  ->  smart_basket,0.118,0.726,1.121,0.013,1.286
+mixed -> feature,delivery_fee_compare + loyalty_wallet + promo_overload  ->  smart_basket,0.091,0.725,1.118,0.01,1.279
+mixed -> feature,hidden_delivery_fees + promo_overload + shared_list  ->  smart_basket,0.083,0.724,1.117,0.009,1.274
+feature -> feature,budget_planner + promo_digest  ->  wishlist_alerts,0.156,0.655,1.116,0.016,1.198
+challenge -> feature,bad_substitutions + promo_overload  ->  wishlist_alerts,0.163,0.652,1.111,0.016,1.187
+challenge -> challenge,out_of_stock + time_comparing  ->  promo_overload,0.121,0.617,1.111,0.012,1.161
+mixed -> feature,hidden_delivery_fees + promo_digest  ->  smart_basket,0.165,0.72,1.111,0.016,1.257
+feature -> feature,shared_list  ->  price_compare,0.325,0.635,1.109,0.032,1.172
+mixed -> feature,delivery_fee_compare + promo_overload + shared_list  ->  smart_basket,0.093,0.719,1.109,0.009,1.253
+feature -> feature,delivery_fee_compare + promo_digest  ->  smart_basket,0.197,0.719,1.109,0.019,1.25
+feature -> feature,wishlist_alerts  ->  smart_basket,0.421,0.717,1.106,0.04,1.243
+feature -> feature,smart_basket  ->  wishlist_alerts,0.421,0.649,1.106,0.04,1.178
+mixed -> feature,promo_digest + promo_overload  ->  wishlist_alerts,0.217,0.649,1.106,0.021,1.178
+mixed -> feature,bad_substitutions + promo_digest  ->  smart_basket,0.144,0.717,1.106,0.014,1.241
+mixed -> feature,promo_overload + shared_list  ->  wishlist_alerts,0.167,0.648,1.103,0.016,1.172
+mixed -> feature,bad_substitutions + delivery_fee_compare + hidden_delivery_fees  ->  smart_basket,0.144,0.714,1.101,0.013,1.23

@@ -1,0 +1,18 @@
+item,label,type,all_respondents,adopters,non_adopters,adopter_lift
+ch_price_inconsistency,Same product priced very differently across stores,challenge,0.512,0.686,0.392,1.75
+ch_hidden_delivery_fees,Delivery/service fees make online look cheaper than it is,challenge,0.418,0.458,0.391,1.17
+ch_expired_offers,Offers have expired or are out of stock when I arrive,challenge,0.394,0.564,0.277,2.04
+ch_out_of_stock,Items I want are often out of stock,challenge,0.39,0.369,0.404,0.91
+ch_promo_overload,Too many promotional notifications and flyers,challenge,0.556,0.541,0.566,0.96
+ch_time_comparing,Comparing prices takes too much time,challenge,0.53,0.678,0.429,1.58
+ch_bad_substitutions,Online orders arrive with poor substitutions,challenge,0.394,0.374,0.407,0.92
+f_price_compare,Compare one product's price across stores,feature,0.573,0.764,0.441,1.73
+f_smart_basket,Find the cheapest store for my whole basket,feature,0.648,0.796,0.546,1.46
+f_price_history,Price history and 'is this a real deal?' signal,feature,0.362,0.499,0.267,1.87
+f_wishlist_alerts,Alerts only when items on my list drop in price,feature,0.587,0.758,0.469,1.62
+f_promo_digest,One weekly digest of the best offers,feature,0.528,0.616,0.467,1.32
+f_delivery_fee_compare,Total cost incl. delivery fees across apps,feature,0.506,0.545,0.48,1.14
+f_loyalty_wallet,All loyalty cards and points in one wallet,feature,0.407,0.376,0.428,0.88
+f_expiry_tracker,Pantry/expiry tracker to cut food waste,feature,0.279,0.255,0.296,0.86
+f_budget_planner,Monthly grocery budget and meal planner,feature,0.4,0.489,0.339,1.44
+f_shared_list,Shared family/flatmate shopping list,feature,0.512,0.566,0.475,1.19

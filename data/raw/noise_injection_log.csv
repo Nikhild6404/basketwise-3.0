@@ -1,0 +1,1053 @@
+respondent_id,column,noise_type,original,injected
+BW01775,intent_download,label_flip (undetectable),Yes,Maybe
+BW01294,intent_download,label_flip (undetectable),No,Yes
+BW00608,intent_download,label_flip (undetectable),Maybe,Yes
+BW00914,intent_download,label_flip (undetectable),Yes,Maybe
+BW01156,intent_download,label_flip (undetectable),Yes,Maybe
+BW01621,intent_download,label_flip (undetectable),Maybe,No
+BW01007,intent_download,label_flip (undetectable),Yes,No
+BW01345,intent_download,label_flip (undetectable),Yes,No
+BW01000,intent_download,label_flip (undetectable),Maybe,Yes
+BW00033,intent_download,label_flip (undetectable),Maybe,Yes
+BW00650,intent_download,label_flip (undetectable),Maybe,No
+BW01698,intent_download,label_flip (undetectable),No,Maybe
+BW00997,intent_download,label_flip (undetectable),Yes,Maybe
+BW00367,intent_download,label_flip (undetectable),No,Maybe
+BW00733,intent_download,label_flip (undetectable),No,Maybe
+BW00665,intent_download,label_flip (undetectable),Maybe,No
+BW00376,intent_download,label_flip (undetectable),Yes,Maybe
+BW00199,intent_download,label_flip (undetectable),Yes,No
+BW00306,intent_download,label_flip (undetectable),No,Maybe
+BW01511,intent_download,label_flip (undetectable),Yes,No
+BW01724,intent_download,label_flip (undetectable),Maybe,No
+BW01312,intent_download,label_flip (undetectable),Yes,No
+BW00038,intent_download,label_flip (undetectable),Maybe,No
+BW01563,intent_download,label_flip (undetectable),Yes,Maybe
+BW00577,intent_download,label_flip (undetectable),Yes,Maybe
+BW00612,intent_download,label_flip (undetectable),Maybe,Yes
+BW01555,intent_download,label_flip (undetectable),Yes,No
+BW01004,intent_download,label_flip (undetectable),Maybe,Yes
+BW01124,intent_download,label_flip (undetectable),Yes,Maybe
+BW00343,intent_download,label_flip (undetectable),No,Yes
+BW01636,intent_download,label_flip (undetectable),Maybe,No
+BW00696,intent_download,label_flip (undetectable),Yes,No
+BW00884,intent_download,label_flip (undetectable),Yes,No
+BW01543,intent_download,label_flip (undetectable),No,Yes
+BW00001,intent_download,label_flip (undetectable),No,Maybe
+BW01609,intent_download,label_flip (undetectable),Maybe,No
+BW01553,intent_download,label_flip (undetectable),Maybe,No
+BW00284,intent_download,label_flip (undetectable),Maybe,Yes
+BW01798,intent_download,label_flip (undetectable),No,Maybe
+BW01019,intent_download,label_flip (undetectable),Yes,Maybe
+BW00712,intent_download,label_flip (undetectable),No,Maybe
+BW00417,intent_download,label_flip (undetectable),Maybe,No
+BW00747,intent_download,label_flip (undetectable),Maybe,No
+BW00116,intent_download,label_flip (undetectable),No,Yes
+BW01968,intent_download,label_flip (undetectable),No,Maybe
+BW00327,intent_download,label_flip (undetectable),No,Yes
+BW01765,intent_download,label_flip (undetectable),Yes,No
+BW00363,intent_download,label_flip (undetectable),No,Yes
+BW01548,intent_download,label_flip (undetectable),No,Maybe
+BW00325,intent_download,label_flip (undetectable),No,Maybe
+BW01634,intent_download,label_flip (undetectable),No,Yes
+BW00538,intent_download,label_flip (undetectable),Yes,No
+BW00487,intent_download,label_flip (undetectable),No,Maybe
+BW01116,intent_download,label_flip (undetectable),Maybe,No
+BW01924,intent_download,label_flip (undetectable),No,Maybe
+BW00491,intent_download,label_flip (undetectable),No,Yes
+BW01317,intent_download,label_flip (undetectable),Yes,Maybe
+BW00680,intent_download,label_flip (undetectable),No,Maybe
+BW01694,intent_download,label_flip (undetectable),No,Maybe
+BW00743,intent_download,label_flip (undetectable),Yes,No
+BW01310,intent_download,label_flip (undetectable),Yes,No
+BW01494,intent_download,label_flip (undetectable),No,Maybe
+BW01217,intent_download,label_flip (undetectable),No,Yes
+BW01782,intent_download,label_flip (undetectable),No,Maybe
+BW01573,intent_download,label_flip (undetectable),Maybe,No
+BW01178,intent_download,label_flip (undetectable),Maybe,Yes
+BW00024,intent_download,label_flip (undetectable),Yes,No
+BW00194,intent_download,label_flip (undetectable),No,Maybe
+BW00829,intent_download,label_flip (undetectable),Maybe,Yes
+BW01582,intent_download,label_flip (undetectable),Maybe,Yes
+BW01271,intent_download,label_flip (undetectable),Yes,No
+BW00540,intent_download,label_flip (undetectable),No,Maybe
+BW01516,intent_download,label_flip (undetectable),Maybe,No
+BW01719,intent_download,label_flip (undetectable),Maybe,No
+BW01802,intent_download,label_flip (undetectable),Maybe,No
+BW00041,intent_download,label_flip (undetectable),Yes,Maybe
+BW01569,intent_download,label_flip (undetectable),Maybe,Yes
+BW01300,intent_download,label_flip (undetectable),Yes,Maybe
+BW00968,intent_download,label_flip (undetectable),Yes,No
+BW01547,intent_download,label_flip (undetectable),Yes,No
+BW01501,intent_download,label_flip (undetectable),No,Maybe
+BW01022,intent_download,label_flip (undetectable),No,Yes
+BW00250,intent_download,label_flip (undetectable),No,Maybe
+BW00912,intent_download,label_flip (undetectable),Yes,No
+BW00482,intent_download,label_flip (undetectable),Maybe,No
+BW01885,intent_download,label_flip (undetectable),No,Maybe
+BW01160,intent_download,label_flip (undetectable),No,Yes
+BW00015,intent_download,label_flip (undetectable),No,Yes
+BW00469,intent_download,label_flip (undetectable),Yes,No
+BW00739,intent_download,label_flip (undetectable),No,Maybe
+BW01966,intent_download,label_flip (undetectable),Maybe,Yes
+BW01898,intent_download,label_flip (undetectable),Maybe,No
+BW01154,intent_download,label_flip (undetectable),Yes,Maybe
+BW00979,intent_download,label_flip (undetectable),Yes,Maybe
+BW00456,intent_download,label_flip (undetectable),Yes,Maybe
+BW00385,intent_download,label_flip (undetectable),Maybe,Yes
+BW00243,intent_download,label_flip (undetectable),Maybe,Yes
+BW00320,intent_download,label_flip (undetectable),Yes,No
+BW01912,intent_download,label_flip (undetectable),Yes,Maybe
+BW00645,intent_download,label_flip (undetectable),Yes,No
+BW00450,emirate,inconsistent_spelling,Sharjah,sharjah
+BW01958,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW01144,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00082,emirate,inconsistent_spelling,Dubai,Dubai 
+BW01955,emirate,inconsistent_spelling,Dubai,DUBAI
+BW01516,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW00429,emirate,inconsistent_spelling,Dubai,DXB
+BW00619,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW00693,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW01884,emirate,inconsistent_spelling,Ras Al Khaimah,RAK
+BW01404,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW01776,emirate,inconsistent_spelling,Umm Al Quwain,UAQ
+BW01752,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW01954,emirate,inconsistent_spelling,Sharjah,Sharja
+BW00128,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW00298,emirate,inconsistent_spelling,Sharjah,sharjah
+BW00385,emirate,inconsistent_spelling,Sharjah,SHJ
+BW00158,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW00790,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00250,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW00144,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00784,emirate,inconsistent_spelling,Dubai,Dubai 
+BW01713,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW00776,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW01665,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW00921,emirate,inconsistent_spelling,Ajman,ajman 
+BW00939,emirate,inconsistent_spelling,Dubai,Dubai 
+BW01694,emirate,inconsistent_spelling,Umm Al Quwain,UAQ
+BW00006,emirate,inconsistent_spelling,Ajman,ajman 
+BW01138,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00192,emirate,inconsistent_spelling,Dubai,dubai
+BW01018,emirate,inconsistent_spelling,Sharjah,SHJ
+BW00259,emirate,inconsistent_spelling,Dubai,DUBAI
+BW00063,emirate,inconsistent_spelling,Sharjah,SHJ
+BW01653,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW00374,emirate,inconsistent_spelling,Dubai,DXB
+BW00962,emirate,inconsistent_spelling,Dubai,DUBAI
+BW01439,emirate,inconsistent_spelling,Dubai,DUBAI
+BW01682,emirate,inconsistent_spelling,Sharjah,Sharja
+BW01781,emirate,inconsistent_spelling,Dubai,DUBAI
+BW01648,emirate,inconsistent_spelling,Dubai,dubai
+BW01049,emirate,inconsistent_spelling,Sharjah,SHJ
+BW00828,emirate,inconsistent_spelling,Dubai,DXB
+BW00484,emirate,inconsistent_spelling,Umm Al Quwain,UAQ
+BW01479,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00671,emirate,inconsistent_spelling,Dubai,DUBAI
+BW00628,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00896,emirate,inconsistent_spelling,Dubai,DXB
+BW00673,emirate,inconsistent_spelling,Sharjah,SHJ
+BW01679,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW00974,emirate,inconsistent_spelling,Ajman,ajman 
+BW00373,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW01678,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW00890,emirate,inconsistent_spelling,Ras Al Khaimah,RAK
+BW00238,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW01995,emirate,inconsistent_spelling,Dubai,dubai
+BW01540,emirate,inconsistent_spelling,Ajman,ajman 
+BW00100,emirate,inconsistent_spelling,Dubai,dubai
+BW00264,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW00922,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW00108,emirate,inconsistent_spelling,Sharjah,Sharja
+BW00644,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW01081,emirate,inconsistent_spelling,Dubai,DUBAI
+BW00016,emirate,inconsistent_spelling,Dubai,dubai
+BW00880,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW00178,emirate,inconsistent_spelling,Dubai,DXB
+BW00713,emirate,inconsistent_spelling,Dubai,dubai
+BW01934,emirate,inconsistent_spelling,Sharjah,sharjah
+BW00442,emirate,inconsistent_spelling,Dubai,Dubai 
+BW01853,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW01059,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW00058,emirate,inconsistent_spelling,Dubai,dubai
+BW00775,emirate,inconsistent_spelling,Sharjah,SHJ
+BW00683,emirate,inconsistent_spelling,Ajman,ajman 
+BW01689,emirate,inconsistent_spelling,Dubai,dubai
+BW00684,emirate,inconsistent_spelling,Sharjah,sharjah
+BW01292,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW00101,emirate,inconsistent_spelling,Sharjah,sharjah
+BW00290,emirate,inconsistent_spelling,Fujairah,Fujeirah
+BW01071,emirate,inconsistent_spelling,Dubai,DUBAI
+BW01577,emirate,inconsistent_spelling,Sharjah,SHJ
+BW00551,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00906,emirate,inconsistent_spelling,Dubai,DUBAI
+BW00535,emirate,inconsistent_spelling,Dubai,DUBAI
+BW01481,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW00652,emirate,inconsistent_spelling,Ras Al Khaimah,RAK
+BW00202,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW01015,emirate,inconsistent_spelling,Dubai,Dubai 
+BW01179,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW00287,emirate,inconsistent_spelling,Sharjah,Sharja
+BW01247,emirate,inconsistent_spelling,Ras Al Khaimah,RAK
+BW01772,emirate,inconsistent_spelling,Dubai,dubai
+BW00783,emirate,inconsistent_spelling,Sharjah,Sharja
+BW00679,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW00194,emirate,inconsistent_spelling,Sharjah,Sharja
+BW00934,emirate,inconsistent_spelling,Dubai,Dubai 
+BW01997,emirate,inconsistent_spelling,Dubai,DXB
+BW00314,emirate,inconsistent_spelling,Sharjah,Sharja
+BW00239,emirate,inconsistent_spelling,Sharjah,SHJ
+BW00685,emirate,inconsistent_spelling,Ras Al Khaimah,Ras al-Khaimah
+BW01115,emirate,inconsistent_spelling,Dubai,dubai
+BW00432,emirate,inconsistent_spelling,Dubai,dubai
+BW00542,emirate,inconsistent_spelling,Sharjah,sharjah
+BW01254,emirate,inconsistent_spelling,Sharjah,SHJ
+BW01137,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW00370,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW00363,emirate,inconsistent_spelling,Dubai,DUBAI
+BW00954,emirate,inconsistent_spelling,Sharjah,Sharja
+BW01129,emirate,inconsistent_spelling,Dubai,DXB
+BW00589,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW00531,emirate,inconsistent_spelling,Dubai,DUBAI
+BW00689,emirate,inconsistent_spelling,Dubai,dubai
+BW01632,emirate,inconsistent_spelling,Ajman,ajman 
+BW01562,emirate,inconsistent_spelling,Ajman,ajman 
+BW00728,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW01645,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW01033,emirate,inconsistent_spelling,Dubai,DUBAI
+BW01289,emirate,inconsistent_spelling,Dubai,Dubai 
+BW01154,emirate,inconsistent_spelling,Ajman,ajman 
+BW00839,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW01784,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW01567,emirate,inconsistent_spelling,Dubai,DUBAI
+BW01424,emirate,inconsistent_spelling,Sharjah,Sharja
+BW01324,emirate,inconsistent_spelling,Dubai,DXB
+BW00888,emirate,inconsistent_spelling,Dubai,dubai
+BW00362,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW00607,emirate,inconsistent_spelling,Dubai,Dubai 
+BW01844,emirate,inconsistent_spelling,Fujairah,Fujeirah
+BW01979,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW00215,emirate,inconsistent_spelling,Dubai,DUBAI
+BW00737,emirate,inconsistent_spelling,Dubai,dubai
+BW01704,emirate,inconsistent_spelling,Dubai,DUBAI
+BW01299,emirate,inconsistent_spelling,Dubai,DXB
+BW00005,emirate,inconsistent_spelling,Dubai,dubai
+BW00256,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW00436,emirate,inconsistent_spelling,Sharjah,SHJ
+BW00341,emirate,inconsistent_spelling,Dubai,DXB
+BW01333,emirate,inconsistent_spelling,Ajman,ajman 
+BW00120,emirate,inconsistent_spelling,Dubai,DXB
+BW00932,emirate,inconsistent_spelling,Umm Al Quwain,UAQ
+BW01386,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW01956,emirate,inconsistent_spelling,Dubai,DUBAI
+BW00743,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00604,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW01193,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW01456,emirate,inconsistent_spelling,Abu Dhabi,AUH
+BW00389,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW01237,emirate,inconsistent_spelling,Dubai,dubai
+BW00782,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW01473,emirate,inconsistent_spelling,Abu Dhabi,Abu-Dhabi
+BW00048,emirate,inconsistent_spelling,Sharjah,SHJ
+BW00840,emirate,inconsistent_spelling,Dubai,DXB
+BW00702,emirate,inconsistent_spelling,Abu Dhabi,abu dhabi
+BW00990,emirate,inconsistent_spelling,Sharjah,Sharja
+BW00953,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00476,emirate,inconsistent_spelling,Ras Al Khaimah,RAK
+BW01213,emirate,inconsistent_spelling,Dubai,Dubai 
+BW00920,emirate,inconsistent_spelling,Abu Dhabi,AbuDhabi
+BW01462,emirate,inconsistent_spelling,Dubai,dubai
+BW00138,emirate,inconsistent_spelling,Sharjah,Sharja
+BW00795,gender,inconsistent_spelling,Female,female
+BW00722,gender,inconsistent_spelling,Female,female
+BW00910,gender,inconsistent_spelling,Female,Femal
+BW00033,gender,inconsistent_spelling,Male,MALE
+BW01075,gender,inconsistent_spelling,Male,M
+BW01679,gender,inconsistent_spelling,Female,F
+BW01225,gender,inconsistent_spelling,Male,male
+BW01093,gender,inconsistent_spelling,Male,MALE
+BW00407,gender,inconsistent_spelling,Female,female
+BW01228,gender,inconsistent_spelling,Female,female
+BW00576,gender,inconsistent_spelling,Male,male
+BW00492,gender,inconsistent_spelling,Prefer not to say,N/A
+BW01576,gender,inconsistent_spelling,Female,Femal
+BW01179,gender,inconsistent_spelling,Female,female
+BW00672,gender,inconsistent_spelling,Female,F
+BW01580,gender,inconsistent_spelling,Male,M
+BW00787,gender,inconsistent_spelling,Male,M
+BW01590,gender,inconsistent_spelling,Male,male
+BW00972,gender,inconsistent_spelling,Female,female
+BW00469,gender,inconsistent_spelling,Male,M
+BW01650,gender,inconsistent_spelling,Male,male
+BW00996,gender,inconsistent_spelling,Male,MALE
+BW01042,gender,inconsistent_spelling,Female,F
+BW00940,gender,inconsistent_spelling,Female,F
+BW01053,gender,inconsistent_spelling,Female,Femal
+BW01549,gender,inconsistent_spelling,Male,male
+BW00185,gender,inconsistent_spelling,Female,Femal
+BW00088,gender,inconsistent_spelling,Female,F
+BW00530,gender,inconsistent_spelling,Female,female
+BW00353,gender,inconsistent_spelling,Male,male
+BW00988,gender,inconsistent_spelling,Prefer not to say,N/A
+BW00864,gender,inconsistent_spelling,Male,M
+BW00090,gender,inconsistent_spelling,Male,M
+BW00203,gender,inconsistent_spelling,Female,Femal
+BW01793,gender,inconsistent_spelling,Male,male
+BW01934,gender,inconsistent_spelling,Female,F
+BW01182,gender,inconsistent_spelling,Female,F
+BW00106,gender,inconsistent_spelling,Female,Femal
+BW00043,gender,inconsistent_spelling,Male,M
+BW01309,gender,inconsistent_spelling,Female,F
+BW00990,gender,inconsistent_spelling,Male,M
+BW00656,gender,inconsistent_spelling,Male,M
+BW01175,gender,inconsistent_spelling,Male,MALE
+BW01524,gender,inconsistent_spelling,Male,MALE
+BW00620,gender,inconsistent_spelling,Male,male
+BW00154,gender,inconsistent_spelling,Male,male
+BW01952,gender,inconsistent_spelling,Male,male
+BW01600,gender,inconsistent_spelling,Female,F
+BW01098,gender,inconsistent_spelling,Male,M
+BW01736,gender,inconsistent_spelling,Male,MALE
+BW00191,gender,inconsistent_spelling,Female,Femal
+BW00998,gender,inconsistent_spelling,Male,M
+BW01602,gender,inconsistent_spelling,Male,male
+BW00153,gender,inconsistent_spelling,Female,F
+BW00655,gender,inconsistent_spelling,Female,Femal
+BW00886,gender,inconsistent_spelling,Male,MALE
+BW00849,gender,inconsistent_spelling,Female,F
+BW00201,gender,inconsistent_spelling,Male,male
+BW00415,gender,inconsistent_spelling,Male,MALE
+BW01969,gender,inconsistent_spelling,Female,female
+BW01172,gender,inconsistent_spelling,Male,MALE
+BW01705,gender,inconsistent_spelling,Female,F
+BW00423,gender,inconsistent_spelling,Male,male
+BW00468,gender,inconsistent_spelling,Male,M
+BW00466,gender,inconsistent_spelling,Male,MALE
+BW00682,gender,inconsistent_spelling,Female,F
+BW01191,gender,inconsistent_spelling,Female,Femal
+BW01587,gender,inconsistent_spelling,Male,MALE
+BW00268,gender,inconsistent_spelling,Male,M
+BW00452,gender,inconsistent_spelling,Male,M
+BW01764,gender,inconsistent_spelling,Male,male
+BW01444,gender,inconsistent_spelling,Female,F
+BW01881,gender,inconsistent_spelling,Female,F
+BW00428,gender,inconsistent_spelling,Male,male
+BW01061,gender,inconsistent_spelling,Male,MALE
+BW01055,gender,inconsistent_spelling,Female,Femal
+BW00329,gender,inconsistent_spelling,Male,MALE
+BW00411,gender,inconsistent_spelling,Male,male
+BW00500,gender,inconsistent_spelling,Male,M
+BW01589,gender,inconsistent_spelling,Male,MALE
+BW01014,gender,inconsistent_spelling,Female,Femal
+BW01601,gender,inconsistent_spelling,Female,female
+BW01582,gender,inconsistent_spelling,Male,MALE
+BW00766,gender,inconsistent_spelling,Female,F
+BW00278,gender,inconsistent_spelling,Male,male
+BW01724,gender,inconsistent_spelling,Female,F
+BW01849,gender,inconsistent_spelling,Male,MALE
+BW00712,gender,inconsistent_spelling,Female,F
+BW01173,gender,inconsistent_spelling,Female,female
+BW00233,gender,inconsistent_spelling,Male,M
+BW00097,gender,inconsistent_spelling,Male,male
+BW01791,gender,inconsistent_spelling,Male,M
+BW01537,gender,inconsistent_spelling,Male,male
+BW01698,gender,inconsistent_spelling,Male,male
+BW01677,gender,inconsistent_spelling,Male,male
+BW01800,gender,inconsistent_spelling,Male,MALE
+BW00357,gender,inconsistent_spelling,Male,M
+BW00189,gender,inconsistent_spelling,Male,M
+BW00134,gender,inconsistent_spelling,Male,MALE
+BW00805,gender,inconsistent_spelling,Female,F
+BW00759,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01278,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW01599,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW00519,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW00407,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW01485,income_band_aed,inconsistent_format,"<5,000",below 5000
+BW00324,income_band_aed,inconsistent_format,"<5,000",below 5000
+BW01214,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01746,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW01243,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW00553,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01303,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW00663,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW00194,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW00042,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW01038,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW01857,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW00027,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW00793,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01728,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW01710,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW00112,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW01100,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01262,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW00012,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01571,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01953,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01906,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW01513,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW00152,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW00948,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW01426,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW00241,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW00142,income_band_aed,inconsistent_format,"<5,000",below 5000
+BW01840,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW00002,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW01143,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW00666,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW01716,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW01543,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW00671,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW00069,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01652,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW01377,income_band_aed,inconsistent_format,"<5,000",below 5000
+BW00560,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01749,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW00810,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW00081,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW01694,income_band_aed,inconsistent_format,"20,000-34,999",20000 - 34999
+BW01793,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01567,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01670,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW00591,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01563,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW01603,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01348,income_band_aed,inconsistent_format,"35,000+",35k and above
+BW01153,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW00585,income_band_aed,inconsistent_format,"5,000-9,999",5000-9999
+BW00335,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW01808,income_band_aed,inconsistent_format,"10,000-19,999",AED 10k-20k
+BW00357,age,impossible_value,31,0
+BW01739,age,impossible_value,21,999
+BW01608,age,impossible_value,38,999
+BW00319,age,impossible_value,36,-1
+BW01236,age,impossible_value,38,-1
+BW00580,age,impossible_value,25,3
+BW01605,age,impossible_value,38,0
+BW00512,age,impossible_value,55,-1
+BW01253,age,impossible_value,41,112
+BW00568,age,impossible_value,31,-1
+BW01355,age,impossible_value,29,999
+BW00958,age,impossible_value,23,112
+BW01682,age,impossible_value,39,150
+BW01225,age,impossible_value,28,3
+BW01907,monthly_grocery_spend_aed,impossible_value,4130,0
+BW00970,monthly_grocery_spend_aed,impossible_value,2030,-250
+BW01169,monthly_grocery_spend_aed,impossible_value,2740,-250
+BW01475,monthly_grocery_spend_aed,impossible_value,960,95000
+BW00691,monthly_grocery_spend_aed,impossible_value,2690,95000
+BW00387,monthly_grocery_spend_aed,impossible_value,2530,250000
+BW00001,monthly_grocery_spend_aed,impossible_value,2000,-250
+BW00548,monthly_grocery_spend_aed,impossible_value,2470,-250
+BW00436,monthly_grocery_spend_aed,impossible_value,2210,-250
+BW00194,monthly_grocery_spend_aed,impossible_value,3570,95000
+BW01449,household_size,impossible_value,5,0
+BW00860,household_size,impossible_value,5,0
+BW01070,household_size,impossible_value,4,0
+BW00235,household_size,impossible_value,6,0
+BW00614,household_size,impossible_value,6,0
+BW01706,household_size,impossible_value,4,0
+BW01295,household_size,impossible_value,5,0
+BW00778,household_size,impossible_value,7,0
+BW01442,monthly_grocery_spend_aed,extreme_outlier,2140,6630
+BW00775,monthly_grocery_spend_aed,extreme_outlier,4420,20300
+BW01324,monthly_grocery_spend_aed,extreme_outlier,5200,22630
+BW00168,monthly_grocery_spend_aed,extreme_outlier,3430,14560
+BW00683,monthly_grocery_spend_aed,extreme_outlier,3680,15670
+BW01912,monthly_grocery_spend_aed,extreme_outlier,2590,10260
+BW00871,monthly_grocery_spend_aed,extreme_outlier,3130,14250
+BW00730,monthly_grocery_spend_aed,extreme_outlier,580,2070
+BW00418,monthly_grocery_spend_aed,extreme_outlier,6530,23510
+BW00006,monthly_grocery_spend_aed,extreme_outlier,2990,9200
+BW00699,monthly_grocery_spend_aed,extreme_outlier,800,3820
+BW00155,monthly_grocery_spend_aed,extreme_outlier,3960,13850
+BW00396,monthly_grocery_spend_aed,extreme_outlier,1740,8690
+BW01931,monthly_grocery_spend_aed,extreme_outlier,790,3630
+BW01913,monthly_grocery_spend_aed,extreme_outlier,3770,17500
+BW00685,monthly_grocery_spend_aed,extreme_outlier,650,2120
+BW00163,monthly_grocery_spend_aed,extreme_outlier,1520,6410
+BW00449,monthly_grocery_spend_aed,extreme_outlier,1750,5600
+BW01935,minutes_comparing_week,extreme_outlier,2,1098
+BW00950,minutes_comparing_week,extreme_outlier,4,756
+BW00307,minutes_comparing_week,extreme_outlier,35,1750
+BW00815,minutes_comparing_week,extreme_outlier,83,732
+BW00492,minutes_comparing_week,extreme_outlier,8,1250
+BW01972,minutes_comparing_week,extreme_outlier,42,1030
+BW00682,minutes_comparing_week,extreme_outlier,72,1917
+BW00395,minutes_comparing_week,extreme_outlier,20,1667
+BW01413,minutes_comparing_week,extreme_outlier,1,622
+BW00206,minutes_comparing_week,extreme_outlier,162,1560
+BW01097,minutes_comparing_week,extreme_outlier,77,1340
+BW00538,minutes_comparing_week,extreme_outlier,33,909
+BW01016,wtp_aed_month,extreme_outlier,4,500
+BW01660,wtp_aed_month,extreme_outlier,0,150
+BW01748,wtp_aed_month,extreme_outlier,0,300
+BW01086,wtp_aed_month,extreme_outlier,3,150
+BW00168,wtp_aed_month,extreme_outlier,0,500
+BW00798,wtp_aed_month,extreme_outlier,0,300
+BW00812,wtp_aed_month,extreme_outlier,0,300
+BW00932,wtp_aed_month,extreme_outlier,13,200
+BW01889,wtp_aed_month,extreme_outlier,0,150
+BW01770,wtp_aed_month,extreme_outlier,3,500
+BW01437,income_band_aed,missing_value,"5,000-9,999",
+BW01452,income_band_aed,missing_value,"10,000-19,999",
+BW01774,income_band_aed,missing_value,"10,000-19,999",
+BW00722,income_band_aed,missing_value,"20,000-34,999",
+BW00374,income_band_aed,missing_value,"20,000-34,999",
+BW01285,income_band_aed,missing_value,"5,000-9,999",
+BW01144,income_band_aed,missing_value,"35,000+",
+BW00811,income_band_aed,missing_value,"5,000-9,999",
+BW00003,income_band_aed,missing_value,"10,000-19,999",
+BW00269,income_band_aed,missing_value,"<5,000",
+BW01594,income_band_aed,missing_value,"10,000-19,999",
+BW01383,income_band_aed,missing_value,"<5,000",
+BW00798,income_band_aed,missing_value,"<5,000",
+BW01653,income_band_aed,missing_value,"10,000-19,999",
+BW00990,income_band_aed,missing_value,"10,000-19,999",
+BW01811,income_band_aed,missing_value,"5,000-9,999",
+BW00394,income_band_aed,missing_value,"35,000+",
+BW00227,income_band_aed,missing_value,"5,000-9,999",
+BW00030,income_band_aed,missing_value,"5,000-9,999",
+BW01293,income_band_aed,missing_value,"10,000-19,999",
+BW01065,income_band_aed,missing_value,"5,000-9,999",
+BW00623,income_band_aed,missing_value,"20,000-34,999",
+BW00530,income_band_aed,missing_value,"10,000-19,999",
+BW01832,income_band_aed,missing_value,"<5,000",
+BW00918,income_band_aed,missing_value,"5,000-9,999",
+BW00306,income_band_aed,missing_value,"35,000+",
+BW01760,income_band_aed,missing_value,"5,000-9,999",
+BW01983,income_band_aed,missing_value,"5,000-9,999",
+BW01045,income_band_aed,missing_value,"10,000-19,999",
+BW00469,income_band_aed,missing_value,"10,000-19,999",
+BW00927,income_band_aed,missing_value,"5,000-9,999",
+BW00685,income_band_aed,missing_value,"5,000-9,999",
+BW01788,income_band_aed,missing_value,"10,000-19,999",
+BW01735,income_band_aed,missing_value,"10,000-19,999",
+BW00321,income_band_aed,missing_value,"10,000-19,999",
+BW00972,income_band_aed,missing_value,"5,000-9,999",
+BW00880,income_band_aed,missing_value,"<5,000",
+BW01205,income_band_aed,missing_value,"10,000-19,999",
+BW01500,income_band_aed,missing_value,"20,000-34,999",
+BW00898,income_band_aed,missing_value,"10,000-19,999",
+BW00550,income_band_aed,missing_value,"20,000-34,999",
+BW01470,income_band_aed,missing_value,"10,000-19,999",
+BW01401,income_band_aed,missing_value,"35,000+",
+BW00933,income_band_aed,missing_value,"10,000-19,999",
+BW01278,income_band_aed,missing_value,35k and above,
+BW00969,income_band_aed,missing_value,"<5,000",
+BW00578,income_band_aed,missing_value,"<5,000",
+BW00145,income_band_aed,missing_value,"20,000-34,999",
+BW00968,income_band_aed,missing_value,"<5,000",
+BW01723,income_band_aed,missing_value,"20,000-34,999",
+BW01552,income_band_aed,missing_value,"35,000+",
+BW00782,income_band_aed,missing_value,"5,000-9,999",
+BW00189,income_band_aed,missing_value,"35,000+",
+BW00295,income_band_aed,missing_value,"20,000-34,999",
+BW00747,income_band_aed,missing_value,"20,000-34,999",
+BW00663,income_band_aed,missing_value,AED 10k-20k,
+BW01166,income_band_aed,missing_value,"5,000-9,999",
+BW00946,income_band_aed,missing_value,"5,000-9,999",
+BW01303,income_band_aed,missing_value,35k and above,
+BW00658,income_band_aed,missing_value,"10,000-19,999",
+BW00546,income_band_aed,missing_value,"10,000-19,999",
+BW01149,income_band_aed,missing_value,"<5,000",
+BW00082,income_band_aed,missing_value,"10,000-19,999",
+BW01563,income_band_aed,missing_value,5000-9999,
+BW00603,income_band_aed,missing_value,"10,000-19,999",
+BW01994,income_band_aed,missing_value,"10,000-19,999",
+BW00434,income_band_aed,missing_value,"5,000-9,999",
+BW00595,income_band_aed,missing_value,"5,000-9,999",
+BW00496,income_band_aed,missing_value,"<5,000",
+BW01798,income_band_aed,missing_value,"20,000-34,999",
+BW00418,income_band_aed,missing_value,"10,000-19,999",
+BW00113,income_band_aed,missing_value,"5,000-9,999",
+BW01802,income_band_aed,missing_value,"5,000-9,999",
+BW00288,income_band_aed,missing_value,"10,000-19,999",
+BW00230,income_band_aed,missing_value,"<5,000",
+BW00254,income_band_aed,missing_value,"20,000-34,999",
+BW01855,income_band_aed,missing_value,"20,000-34,999",
+BW01853,income_band_aed,missing_value,"<5,000",
+BW00971,income_band_aed,missing_value,"10,000-19,999",
+BW01048,income_band_aed,missing_value,"20,000-34,999",
+BW00063,monthly_grocery_spend_aed,missing_value,540,
+BW00162,monthly_grocery_spend_aed,missing_value,1350.0,
+BW01388,monthly_grocery_spend_aed,missing_value,3000.0,
+BW01945,monthly_grocery_spend_aed,missing_value,3530.0,
+BW00835,monthly_grocery_spend_aed,missing_value,2040.0,
+BW01787,monthly_grocery_spend_aed,missing_value,2920.0,
+BW00873,monthly_grocery_spend_aed,missing_value,3920.0,
+BW00885,monthly_grocery_spend_aed,missing_value,4790.0,
+BW01081,monthly_grocery_spend_aed,missing_value,1250.0,
+BW01833,monthly_grocery_spend_aed,missing_value,1230.0,
+BW01074,monthly_grocery_spend_aed,missing_value,2230.0,
+BW00584,monthly_grocery_spend_aed,missing_value,2520.0,
+BW01916,monthly_grocery_spend_aed,missing_value,2280.0,
+BW00214,monthly_grocery_spend_aed,missing_value,1510.0,
+BW01127,monthly_grocery_spend_aed,missing_value,780.0,
+BW00168,monthly_grocery_spend_aed,missing_value,14560.0,
+BW00423,monthly_grocery_spend_aed,missing_value,1880.0,
+BW00469,monthly_grocery_spend_aed,missing_value,3950.0,
+BW01375,monthly_grocery_spend_aed,missing_value,1480.0,
+BW01499,monthly_grocery_spend_aed,missing_value,3030.0,
+BW01377,monthly_grocery_spend_aed,missing_value,1720.0,
+BW00825,monthly_grocery_spend_aed,missing_value,2980.0,
+BW01390,monthly_grocery_spend_aed,missing_value,3530.0,
+BW01438,monthly_grocery_spend_aed,missing_value,700.0,
+BW01708,monthly_grocery_spend_aed,missing_value,3010.0,
+BW01159,monthly_grocery_spend_aed,missing_value,2230.0,
+BW01222,monthly_grocery_spend_aed,missing_value,3680.0,
+BW01187,monthly_grocery_spend_aed,missing_value,3110.0,
+BW00851,monthly_grocery_spend_aed,missing_value,1630.0,
+BW01304,monthly_grocery_spend_aed,missing_value,3670.0,
+BW01714,monthly_grocery_spend_aed,missing_value,1490.0,
+BW00055,monthly_grocery_spend_aed,missing_value,2920.0,
+BW00794,monthly_grocery_spend_aed,missing_value,2340.0,
+BW00534,monthly_grocery_spend_aed,missing_value,1570.0,
+BW00434,monthly_grocery_spend_aed,missing_value,4130.0,
+BW00533,monthly_grocery_spend_aed,missing_value,2140.0,
+BW01206,monthly_grocery_spend_aed,missing_value,3410.0,
+BW01199,monthly_grocery_spend_aed,missing_value,1920.0,
+BW00787,monthly_grocery_spend_aed,missing_value,3010.0,
+BW01188,monthly_grocery_spend_aed,missing_value,1790.0,
+BW00786,monthly_grocery_spend_aed,missing_value,1850.0,
+BW00097,monthly_grocery_spend_aed,missing_value,4550.0,
+BW01311,monthly_grocery_spend_aed,missing_value,1460.0,
+BW00793,monthly_grocery_spend_aed,missing_value,1770.0,
+BW00537,monthly_grocery_spend_aed,missing_value,920.0,
+BW01065,monthly_grocery_spend_aed,missing_value,2610.0,
+BW01192,monthly_grocery_spend_aed,missing_value,3450.0,
+BW01634,monthly_grocery_spend_aed,missing_value,3510.0,
+BW00844,monthly_grocery_spend_aed,missing_value,2960.0,
+BW01826,monthly_grocery_spend_aed,missing_value,3590.0,
+BW00936,monthly_grocery_spend_aed,missing_value,1720.0,
+BW00383,monthly_grocery_spend_aed,missing_value,1990.0,
+BW00295,monthly_grocery_spend_aed,missing_value,4470.0,
+BW00998,monthly_grocery_spend_aed,missing_value,3050.0,
+BW00662,monthly_grocery_spend_aed,missing_value,3140.0,
+BW01696,monthly_grocery_spend_aed,missing_value,720.0,
+BW00554,monthly_grocery_spend_aed,missing_value,2870.0,
+BW01561,monthly_grocery_spend_aed,missing_value,2210.0,
+BW00233,monthly_grocery_spend_aed,missing_value,2520.0,
+BW01676,monthly_grocery_spend_aed,missing_value,4180.0,
+BW01987,household_size,missing_value,4,
+BW00092,household_size,missing_value,2.0,
+BW00607,household_size,missing_value,3.0,
+BW00750,household_size,missing_value,3.0,
+BW00398,household_size,missing_value,3.0,
+BW01158,household_size,missing_value,7.0,
+BW00468,household_size,missing_value,6.0,
+BW01172,household_size,missing_value,4.0,
+BW01302,household_size,missing_value,4.0,
+BW00469,household_size,missing_value,6.0,
+BW01784,household_size,missing_value,6.0,
+BW01404,household_size,missing_value,4.0,
+BW01826,household_size,missing_value,5.0,
+BW00577,household_size,missing_value,5.0,
+BW01183,household_size,missing_value,7.0,
+BW01483,household_size,missing_value,4.0,
+BW01698,household_size,missing_value,3.0,
+BW00475,household_size,missing_value,3.0,
+BW01789,household_size,missing_value,3.0,
+BW00363,household_size,missing_value,3.0,
+BW00201,household_size,missing_value,5.0,
+BW01985,household_size,missing_value,4.0,
+BW01909,household_size,missing_value,3.0,
+BW00341,household_size,missing_value,4.0,
+BW00422,household_size,missing_value,7.0,
+BW01968,household_size,missing_value,3.0,
+BW00600,household_size,missing_value,4.0,
+BW00715,household_size,missing_value,3.0,
+BW00544,household_size,missing_value,3.0,
+BW00053,household_size,missing_value,6.0,
+BW00052,household_size,missing_value,5.0,
+BW01455,household_size,missing_value,4.0,
+BW00107,household_size,missing_value,3.0,
+BW00229,household_size,missing_value,5.0,
+BW00049,household_size,missing_value,6.0,
+BW01571,household_size,missing_value,3.0,
+BW01564,household_size,missing_value,2.0,
+BW00017,household_size,missing_value,4.0,
+BW00012,household_size,missing_value,3.0,
+BW01413,household_size,missing_value,5.0,
+BW01834,nps_concept,missing_value,8,
+BW00029,nps_concept,missing_value,10.0,
+BW00730,nps_concept,missing_value,6.0,
+BW00913,nps_concept,missing_value,10.0,
+BW01862,nps_concept,missing_value,9.0,
+BW00505,nps_concept,missing_value,10.0,
+BW00558,nps_concept,missing_value,5.0,
+BW00678,nps_concept,missing_value,9.0,
+BW00063,nps_concept,missing_value,7.0,
+BW00140,nps_concept,missing_value,7.0,
+BW00967,nps_concept,missing_value,10.0,
+BW00195,nps_concept,missing_value,9.0,
+BW00440,nps_concept,missing_value,9.0,
+BW00865,nps_concept,missing_value,7.0,
+BW00642,nps_concept,missing_value,2.0,
+BW01693,nps_concept,missing_value,10.0,
+BW00385,nps_concept,missing_value,6.0,
+BW00787,nps_concept,missing_value,0.0,
+BW00474,nps_concept,missing_value,7.0,
+BW01356,nps_concept,missing_value,10.0,
+BW01968,nps_concept,missing_value,0.0,
+BW01352,nps_concept,missing_value,4.0,
+BW01672,nps_concept,missing_value,6.0,
+BW00306,nps_concept,missing_value,4.0,
+BW00124,nps_concept,missing_value,10.0,
+BW01204,nps_concept,missing_value,1.0,
+BW01431,nps_concept,missing_value,9.0,
+BW01438,nps_concept,missing_value,5.0,
+BW00947,nps_concept,missing_value,1.0,
+BW01034,nps_concept,missing_value,10.0,
+BW01587,nps_concept,missing_value,7.0,
+BW00790,nps_concept,missing_value,10.0,
+BW01169,nps_concept,missing_value,2.0,
+BW00032,nps_concept,missing_value,9.0,
+BW00729,nps_concept,missing_value,6.0,
+BW01830,nps_concept,missing_value,7.0,
+BW01853,nps_concept,missing_value,7.0,
+BW01314,nps_concept,missing_value,7.0,
+BW00786,nps_concept,missing_value,1.0,
+BW00621,nps_concept,missing_value,0.0,
+BW01548,nps_concept,missing_value,3.0,
+BW01215,nps_concept,missing_value,4.0,
+BW00179,nps_concept,missing_value,10.0,
+BW00960,nps_concept,missing_value,4.0,
+BW00285,nps_concept,missing_value,9.0,
+BW01273,nps_concept,missing_value,9.0,
+BW01055,nps_concept,missing_value,6.0,
+BW00648,nps_concept,missing_value,10.0,
+BW01722,nps_concept,missing_value,8.0,
+BW00613,nps_concept,missing_value,8.0,
+BW00917,nps_concept,missing_value,3.0,
+BW00918,nps_concept,missing_value,9.0,
+BW00893,nps_concept,missing_value,8.0,
+BW00367,nps_concept,missing_value,1.0,
+BW00241,nps_concept,missing_value,0.0,
+BW01498,nps_concept,missing_value,7.0,
+BW00528,nps_concept,missing_value,10.0,
+BW01177,nps_concept,missing_value,7.0,
+BW01339,nps_concept,missing_value,10.0,
+BW00284,nps_concept,missing_value,10.0,
+BW01652,wtp_aed_month,missing_value,23,
+BW01888,wtp_aed_month,missing_value,8.0,
+BW00883,wtp_aed_month,missing_value,13.0,
+BW00236,wtp_aed_month,missing_value,3.0,
+BW01757,wtp_aed_month,missing_value,3.0,
+BW01835,wtp_aed_month,missing_value,14.0,
+BW00101,wtp_aed_month,missing_value,9.0,
+BW01430,wtp_aed_month,missing_value,4.0,
+BW00192,wtp_aed_month,missing_value,8.0,
+BW01311,wtp_aed_month,missing_value,4.0,
+BW00021,wtp_aed_month,missing_value,3.0,
+BW00336,wtp_aed_month,missing_value,7.0,
+BW00198,wtp_aed_month,missing_value,7.0,
+BW01427,wtp_aed_month,missing_value,13.0,
+BW00096,wtp_aed_month,missing_value,0.0,
+BW01396,wtp_aed_month,missing_value,3.0,
+BW01188,wtp_aed_month,missing_value,9.0,
+BW01880,wtp_aed_month,missing_value,0.0,
+BW01178,wtp_aed_month,missing_value,12.0,
+BW01235,wtp_aed_month,missing_value,10.0,
+BW01314,wtp_aed_month,missing_value,8.0,
+BW01586,wtp_aed_month,missing_value,8.0,
+BW01986,wtp_aed_month,missing_value,13.0,
+BW00961,wtp_aed_month,missing_value,0.0,
+BW01367,wtp_aed_month,missing_value,7.0,
+BW01866,wtp_aed_month,missing_value,0.0,
+BW00980,wtp_aed_month,missing_value,14.0,
+BW01258,wtp_aed_month,missing_value,3.0,
+BW00055,wtp_aed_month,missing_value,3.0,
+BW00359,wtp_aed_month,missing_value,0.0,
+BW01196,wtp_aed_month,missing_value,11.0,
+BW01185,wtp_aed_month,missing_value,0.0,
+BW01719,wtp_aed_month,missing_value,0.0,
+BW01501,wtp_aed_month,missing_value,4.0,
+BW01948,wtp_aed_month,missing_value,12.0,
+BW01026,wtp_aed_month,missing_value,5.0,
+BW00737,wtp_aed_month,missing_value,10.0,
+BW00596,wtp_aed_month,missing_value,5.0,
+BW00739,wtp_aed_month,missing_value,4.0,
+BW00246,wtp_aed_month,missing_value,15.0,
+BW00584,occupation,missing_value,Employed full-time,
+BW01577,occupation,missing_value,Employed full-time,
+BW00511,occupation,missing_value,Employed full-time,
+BW00322,occupation,missing_value,Student,
+BW01878,occupation,missing_value,Employed full-time,
+BW01123,occupation,missing_value,Employed full-time,
+BW01320,occupation,missing_value,Self-employed,
+BW01029,occupation,missing_value,Self-employed,
+BW01777,occupation,missing_value,Homemaker,
+BW01548,occupation,missing_value,Self-employed,
+BW01371,occupation,missing_value,Employed full-time,
+BW00728,occupation,missing_value,Employed full-time,
+BW01061,occupation,missing_value,Employed full-time,
+BW00136,occupation,missing_value,Employed full-time,
+BW01927,occupation,missing_value,Employed full-time,
+BW01012,occupation,missing_value,Student,
+BW01557,occupation,missing_value,Employed full-time,
+BW00661,occupation,missing_value,Employed full-time,
+BW01715,occupation,missing_value,Employed full-time,
+BW01546,occupation,missing_value,Employed full-time,
+BW01386,occupation,missing_value,Employed full-time,
+BW00227,occupation,missing_value,Employed full-time,
+BW00312,occupation,missing_value,Employed full-time,
+BW01342,occupation,missing_value,Employed full-time,
+BW01087,occupation,missing_value,Employed full-time,
+BW01247,occupation,missing_value,Student,
+BW01288,occupation,missing_value,Employed full-time,
+BW01233,occupation,missing_value,Employed part-time,
+BW00486,occupation,missing_value,Self-employed,
+BW01444,occupation,missing_value,Homemaker,
+BW00657,occupation,missing_value,Retired/Not working,
+BW01044,occupation,missing_value,Employed full-time,
+BW00106,occupation,missing_value,Employed full-time,
+BW00934,occupation,missing_value,Self-employed,
+BW01670,occupation,missing_value,Employed full-time,
+BW00148,occupation,missing_value,Student,
+BW00502,occupation,missing_value,Employed part-time,
+BW01115,occupation,missing_value,Employed part-time,
+BW00463,occupation,missing_value,Self-employed,
+BW00643,occupation,missing_value,Self-employed,
+BW01256,minutes_comparing_week,missing_value,12,
+BW00653,minutes_comparing_week,missing_value,7.0,
+BW01007,minutes_comparing_week,missing_value,34.0,
+BW00453,minutes_comparing_week,missing_value,3.0,
+BW00893,minutes_comparing_week,missing_value,45.0,
+BW00834,minutes_comparing_week,missing_value,7.0,
+BW00329,minutes_comparing_week,missing_value,6.0,
+BW01499,minutes_comparing_week,missing_value,9.0,
+BW00948,minutes_comparing_week,missing_value,6.0,
+BW00909,minutes_comparing_week,missing_value,139.0,
+BW01623,minutes_comparing_week,missing_value,6.0,
+BW01124,minutes_comparing_week,missing_value,46.0,
+BW00958,minutes_comparing_week,missing_value,82.0,
+BW00284,minutes_comparing_week,missing_value,78.0,
+BW01723,minutes_comparing_week,missing_value,8.0,
+BW00446,minutes_comparing_week,missing_value,6.0,
+BW00470,minutes_comparing_week,missing_value,52.0,
+BW01233,minutes_comparing_week,missing_value,78.0,
+BW00379,minutes_comparing_week,missing_value,18.0,
+BW00663,minutes_comparing_week,missing_value,73.0,
+BW00476,minutes_comparing_week,missing_value,17.0,
+BW01758,minutes_comparing_week,missing_value,117.0,
+BW00338,minutes_comparing_week,missing_value,17.0,
+BW00222,minutes_comparing_week,missing_value,19.0,
+BW01047,minutes_comparing_week,missing_value,153.0,
+BW00351,minutes_comparing_week,missing_value,40.0,
+BW00593,minutes_comparing_week,missing_value,6.0,
+BW01547,minutes_comparing_week,missing_value,22.0,
+BW01614,minutes_comparing_week,missing_value,23.0,
+BW00639,minutes_comparing_week,missing_value,6.0,
+BW01957,minutes_comparing_week,missing_value,20.0,
+BW00590,minutes_comparing_week,missing_value,94.0,
+BW00844,minutes_comparing_week,missing_value,47.0,
+BW01582,minutes_comparing_week,missing_value,9.0,
+BW01117,minutes_comparing_week,missing_value,71.0,
+BW01826,minutes_comparing_week,missing_value,30.0,
+BW01479,minutes_comparing_week,missing_value,37.0,
+BW01617,minutes_comparing_week,missing_value,29.0,
+BW01567,minutes_comparing_week,missing_value,27.0,
+BW01780,minutes_comparing_week,missing_value,42.0,
+BW01802,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW01965,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00118,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW01625,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW00390,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00504,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW01087,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00186,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00844,wtp_aed_month/preferred_plan,contradiction,4.0,high WTP + Premium
+BW01316,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00853,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW01511,wtp_aed_month/preferred_plan,contradiction,5.0,high WTP + Premium
+BW01514,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00469,wtp_aed_month/preferred_plan,contradiction,5.0,high WTP + Premium
+BW01791,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW01613,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW01331,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW00508,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00383,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW01690,wtp_aed_month/preferred_plan,contradiction,5.0,high WTP + Premium
+BW00317,wtp_aed_month/preferred_plan,contradiction,5.0,high WTP + Premium
+BW00863,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW01451,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW00549,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00665,wtp_aed_month/preferred_plan,contradiction,12.0,high WTP + Premium
+BW01745,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW00102,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW01663,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW00298,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW01088,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW01461,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00435,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW01246,wtp_aed_month/preferred_plan,contradiction,4.0,high WTP + Premium
+BW01103,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00215,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00567,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW00947,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW01051,wtp_aed_month/preferred_plan,contradiction,0.0,high WTP + Premium
+BW01359,wtp_aed_month/preferred_plan,contradiction,3.0,high WTP + Premium
+BW01898,wtp_aed_month/preferred_plan,contradiction,9.0,high WTP + Premium
+BW00895,lk_* grid,straight_liner,,1
+BW01708,lk_* grid,straight_liner,,1
+BW01320,lk_* grid,straight_liner,,1
+BW00966,lk_* grid,straight_liner,,5
+BW01026,lk_* grid,straight_liner,,1
+BW01140,lk_* grid,straight_liner,,3
+BW00899,lk_* grid,straight_liner,,1
+BW01966,lk_* grid,straight_liner,,1
+BW00439,lk_* grid,straight_liner,,1
+BW00742,lk_* grid,straight_liner,,3
+BW00748,lk_* grid,straight_liner,,5
+BW01541,lk_* grid,straight_liner,,1
+BW00340,lk_* grid,straight_liner,,5
+BW01557,lk_* grid,straight_liner,,3
+BW01955,lk_* grid,straight_liner,,5
+BW01455,lk_* grid,straight_liner,,1
+BW00752,lk_* grid,straight_liner,,3
+BW01968,lk_* grid,straight_liner,,5
+BW00453,lk_* grid,straight_liner,,3
+BW00873,lk_* grid,straight_liner,,3
+BW00191,lk_* grid,straight_liner,,3
+BW00229,lk_* grid,straight_liner,,1
+BW01650,lk_* grid,straight_liner,,1
+BW01773,lk_* grid,straight_liner,,3
+BW01933,lk_* grid,straight_liner,,3
+BW00251,lk_* grid,straight_liner,,1
+BW00426,lk_* grid,straight_liner,,3
+BW00813,lk_* grid,straight_liner,,1
+BW01413,lk_* grid,straight_liner,,5
+BW00032,lk_* grid,straight_liner,,3
+BW01287,lk_* grid,straight_liner,,5
+BW00581,lk_* grid,straight_liner,,5
+BW00843,lk_* grid,straight_liner,,3
+BW01790,lk_* grid,straight_liner,,3
+BW01768,lk_* grid,straight_liner,,3
+BW00715,lk_* grid,straight_liner,,5
+BW00750,lk_* grid,straight_liner,,3
+BW01247,lk_* grid,straight_liner,,3
+BW00861,lk_* grid,straight_liner,,5
+BW00543,lk_* grid,straight_liner,,5
+BW00235,lk_* grid,straight_liner,,3
+BW00167,lk_* grid,straight_liner,,5
+BW00534,lk_* grid,straight_liner,,3
+BW00898,lk_* grid,straight_liner,,3
+BW01822,lk_* grid,straight_liner,,5
+BW01764,lk_* grid,straight_liner,,5
+BW00152,lk_* grid,straight_liner,,3
+BW01151,lk_* grid,straight_liner,,3
+BW01089,lk_* grid,straight_liner,,5
+BW00906,lk_* grid,straight_liner,,1
+BW01964,lk_* grid,straight_liner,,3
+BW01944,lk_* grid,straight_liner,,1
+BW00976,lk_* grid,straight_liner,,5
+BW00291,lk_* grid,straight_liner,,3
+BW00390,lk_* grid,straight_liner,,3
+BW01351,lk_* grid,straight_liner,,5
+BW01299,lk_* grid,straight_liner,,1
+BW01361,lk_* grid,straight_liner,,5
+BW01649,lk_* grid,straight_liner,,1
+BW00345,lk_* grid,straight_liner,,1
+BW01076,completion_time_sec,speeder,376,69
+BW00254,completion_time_sec,speeder,337,45
+BW00761,completion_time_sec,speeder,557,57
+BW01495,completion_time_sec,speeder,528,44
+BW00660,completion_time_sec,speeder,395,63
+BW01135,completion_time_sec,speeder,464,80
+BW01181,completion_time_sec,speeder,492,83
+BW00707,completion_time_sec,speeder,390,93
+BW01256,completion_time_sec,speeder,520,51
+BW00335,completion_time_sec,speeder,425,69
+BW01241,completion_time_sec,speeder,527,72
+BW01693,completion_time_sec,speeder,459,53
+BW00080,completion_time_sec,speeder,529,94
+BW00234,completion_time_sec,speeder,418,79
+BW00858,completion_time_sec,speeder,379,53
+BW01226,completion_time_sec,speeder,483,84
+BW01773,completion_time_sec,speeder,196,56
+BW00651,completion_time_sec,speeder,266,42
+BW00930,completion_time_sec,speeder,424,71
+BW00546,completion_time_sec,speeder,421,61
+BW01914,completion_time_sec,speeder,312,85
+BW00854,completion_time_sec,speeder,375,81
+BW00518,completion_time_sec,speeder,231,37
+BW01394,completion_time_sec,speeder,227,70
+BW00407,completion_time_sec,speeder,269,66
+BW01105,completion_time_sec,speeder,390,86
+BW00790,completion_time_sec,speeder,399,49
+BW00410,completion_time_sec,speeder,576,47
+BW01248,completion_time_sec,speeder,470,41
+BW01856,completion_time_sec,speeder,413,91
+BW00029,completion_time_sec,speeder,452,87
+BW00645,completion_time_sec,speeder,489,70
+BW00239,completion_time_sec,speeder,297,60
+BW01661,completion_time_sec,speeder,306,51
+BW01505,completion_time_sec,speeder,539,58
+BW00445,completion_time_sec,speeder,431,78
+BW00988,completion_time_sec,speeder,339,67
+BW01991,completion_time_sec,speeder,433,80
+BW01592,completion_time_sec,speeder,487,79
+BW00352,completion_time_sec,speeder,315,57
+BW01007,completion_time_sec,speeder,312,89
+BW01943,completion_time_sec,speeder,429,64
+BW01809,completion_time_sec,speeder,186,73
+BW01814,completion_time_sec,speeder,467,71
+BW00149,completion_time_sec,speeder,401,65
+BW00701,completion_time_sec,speeder,337,91
+BW01106,completion_time_sec,speeder,458,78
+BW00922,completion_time_sec,speeder,365,70
+BW00417,completion_time_sec,speeder,377,49
+BW00062,completion_time_sec,speeder,296,48
+BW01431,completion_time_sec,speeder,364,55
+BW01243,completion_time_sec,speeder,208,94
+BW00840,completion_time_sec,speeder,646,49
+BW01202,completion_time_sec,speeder,530,87
+BW00462,completion_time_sec,speeder,494,64
+BW01063,completion_time_sec,speeder,548,53
+BW01433,completion_time_sec,speeder,418,47
+BW01250,completion_time_sec,speeder,435,43
+BW00299,completion_time_sec,speeder,494,36
+BW00608,completion_time_sec,speeder,528,85
+BW00773,(row),exact_duplicate,,row repeated
+BW01296,(row),exact_duplicate,,row repeated
+BW00437,(row),exact_duplicate,,row repeated
+BW00100,(row),exact_duplicate,,row repeated
+BW01974,(row),exact_duplicate,,row repeated
+BW01452,(row),exact_duplicate,,row repeated
+BW01738,(row),exact_duplicate,,row repeated
+BW01283,(row),exact_duplicate,,row repeated
+BW00335,(row),exact_duplicate,,row repeated
+BW00549,(row),exact_duplicate,,row repeated
+BW01155,(row),exact_duplicate,,row repeated
+BW01819,(row),exact_duplicate,,row repeated
+BW00329,(row),exact_duplicate,,row repeated
+BW00831,(row),exact_duplicate,,row repeated
+BW00977,(row),exact_duplicate,,row repeated
+BW01902,(row),exact_duplicate,,row repeated
+BW00139,(row),exact_duplicate,,row repeated
+BW00713,(row),exact_duplicate,,row repeated
+BW00712,(row),exact_duplicate,,row repeated
+BW01037,(row),exact_duplicate,,row repeated
+BW00432,(row),exact_duplicate,,row repeated
+BW01752,(row),exact_duplicate,,row repeated
+BW00032,(row),exact_duplicate,,row repeated
+BW00275,(row),exact_duplicate,,row repeated
+BW00938,(row),exact_duplicate,,row repeated
+BW02001,respondent_id,duplicate_new_id,BW01384,BW02001
+BW02002,respondent_id,duplicate_new_id,BW00843,BW02002
+BW02003,respondent_id,duplicate_new_id,BW01096,BW02003
+BW02004,respondent_id,duplicate_new_id,BW00731,BW02004
+BW02005,respondent_id,duplicate_new_id,BW00495,BW02005
+BW02006,respondent_id,duplicate_new_id,BW00944,BW02006
+BW02007,respondent_id,duplicate_new_id,BW01488,BW02007
+BW02008,respondent_id,duplicate_new_id,BW01343,BW02008
+BW02009,respondent_id,duplicate_new_id,BW00829,BW02009
+BW02010,respondent_id,duplicate_new_id,BW01105,BW02010
+BW02011,respondent_id,duplicate_new_id,BW01569,BW02011
+BW02012,respondent_id,duplicate_new_id,BW00730,BW02012
+BW02013,respondent_id,duplicate_new_id,BW01218,BW02013
+BW02014,respondent_id,duplicate_new_id,BW00386,BW02014
+BW02015,respondent_id,duplicate_new_id,BW01138,BW02015

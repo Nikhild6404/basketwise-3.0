@@ -1,0 +1,11 @@
+step,feature_added,adopters_well_served,marginal_gain,share_of_adopters_wanting_it
+1,f_smart_basket,0.0,0.0,0.796
+2,f_price_compare,0.619,0.619,0.764
+3,f_wishlist_alerts,0.863,0.244,0.758
+4,f_shared_list,0.936,0.072,0.566
+5,f_delivery_fee_compare,0.972,0.036,0.545
+6,f_budget_planner,0.988,0.016,0.489
+7,f_loyalty_wallet,0.995,0.007,0.376
+8,f_promo_digest,1.0,0.005,0.616
+9,f_price_history,1.0,0.0,0.499
+10,f_expiry_tracker,1.0,0.0,0.255

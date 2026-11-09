@@ -1,0 +1,16 @@
+step,action,rule,rows_affected,rows_remaining
+1,Drop exact duplicates,identical on every column,25,2015
+2,Drop re-submissions under a new ID,"identical answers + timestamp, different respondent_id",15,2000
+3,Standardise emirate spellings,"e.g. 'DXB', 'dubai ' -> 'Dubai'",160,2000
+4,Standardise gender labels,"e.g. 'M', 'male' -> 'Male'",100,2000
+5,Standardise income band formats,"e.g. 'AED 10k-20k' -> '10,000-19,999'",56,2000
+6,Remove speeders,completion_time_sec < 120,60,1940
+7,Remove failed attention checks / straight-liners,instructed item 'select Agree (4)' not answered 4,76,1864
+8,Remove contradictory respondents,"would NOT download, yet picks Premium and WTP >= AED 20",39,1825
+9,Set impossible age to missing,outside 16-80,14,1825
+10,Set impossible household_size to missing,outside 1-15,7,1825
+11,Set impossible monthly_grocery_spend_aed to missing,outside 100-50000,10,1825
+12,Cap extreme monthly_grocery_spend_aed,"> Q3 + 3*IQR (8,460)",16,1825
+13,Cap extreme minutes_comparing_week,> Q3 + 3*IQR (182),43,1825
+14,Cap extreme wtp_aed_month,> Q3 + 3*IQR (40),10,1825
+15,Impute missing values,"median (numeric, by group where sensible) / mode (categorical); regression target left as-is",317,1825

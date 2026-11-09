@@ -1,0 +1,58 @@
+feature,importance,std
+spend_per_person_aed,0.1887,0.02
+price_seeker_index,0.1412,0.0175
+age,0.0363,0.0097
+f_delivery_fee_compare,0.031,0.0132
+income_ord,0.0252,0.0079
+monthly_grocery_spend_aed,0.0232,0.0054
+f_wishlist_alerts,0.0164,0.0133
+lk_app_comfort,0.0136,0.0053
+spend_share_of_income,0.0115,0.0042
+feature_count,0.0111,0.0042
+f_smart_basket,0.0081,0.0026
+challenge_count,0.0078,0.0049
+f_price_history,0.0043,0.0031
+minutes_comparing_week,0.0035,0.0022
+f_budget_planner,0.0018,0.0005
+lk_compare_often,0.0016,0.0016
+household_size,0.0015,0.0005
+stores_used_regularly,0.0012,0.0011
+ch_price_inconsistency,0.0012,0.0006
+shops_online,0.0011,0.0005
+lk_brand_loyal,0.0011,0.0008
+lk_switch_for_savings,0.0009,0.001
+f_promo_digest,0.0009,0.0005
+f_loyalty_wallet,0.0007,0.0004
+gender_Male,0.0007,0.0004
+f_price_compare,0.0005,0.0005
+ch_promo_overload,0.0005,0.0003
+shares_receipts,0.0005,0.0005
+lk_notif_annoyed,0.0005,0.0012
+ch_time_comparing,0.0004,0.0006
+nationality_group_Southeast Asian,0.0003,0.0001
+occupation_Self-employed,0.0001,0.0001
+occupation_Employed part-time,0.0001,0.0
+occupation_Student,0.0001,0.0001
+f_shared_list,0.0,0.0001
+emirate_Dubai,0.0,0.0005
+nationality_group_Other,0.0,0.0
+emirate_Umm Al Quwain,0.0,0.0
+emirate_Ras Al Khaimah,0.0,0.0
+gender_Prefer not to say,0.0,0.0
+occupation_Retired/Not working,-0.0,0.0
+primary_channel_Mix of both,-0.0,0.0006
+primary_channel_Online/app delivery,-0.0,0.0005
+ch_out_of_stock,-0.0,0.0005
+emirate_Ajman,-0.0,0.0001
+f_expiry_tracker,-0.0001,0.0003
+emirate_Sharjah,-0.0001,0.0002
+occupation_Homemaker,-0.0001,0.0001
+promo_notif_ord,-0.0002,0.0009
+nationality_group_Emirati,-0.0002,0.001
+emirate_Fujairah,-0.0003,0.0002
+nationality_group_South Asian,-0.0003,0.0007
+trips_per_week,-0.0004,0.0009
+nationality_group_Western,-0.0006,0.0006
+ch_bad_substitutions,-0.0008,0.0004
+ch_hidden_delivery_fees,-0.0008,0.0006
+ch_expired_offers,-0.0015,0.0008

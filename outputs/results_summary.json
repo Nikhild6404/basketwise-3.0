@@ -1,0 +1,897 @@
+{
+  "cleaning": {
+    "raw_rows": 2040,
+    "clean_rows": 1825,
+    "removed": 215,
+    "steps": {
+      "Drop exact duplicates": 25,
+      "Drop re-submissions under a new ID": 15,
+      "Standardise emirate spellings": 160,
+      "Standardise gender labels": 100,
+      "Standardise income band formats": 56,
+      "Remove speeders": 60,
+      "Remove failed attention checks / straight-liners": 76,
+      "Remove contradictory respondents": 39,
+      "Set impossible age to missing": 14,
+      "Set impossible household_size to missing": 7,
+      "Set impossible monthly_grocery_spend_aed to missing": 10,
+      "Cap extreme monthly_grocery_spend_aed": 16,
+      "Cap extreme minutes_comparing_week": 43,
+      "Cap extreme wtp_aed_month": 10,
+      "Impute missing values": 317
+    }
+  },
+  "descriptive": {
+    "n": 1825,
+    "intent_share": {
+      "Yes": 0.408,
+      "Maybe": 0.301,
+      "No": 0.291
+    },
+    "concept_nps": -30.9,
+    "median_spend_aed": 2350.0,
+    "median_minutes_comparing": 26.0,
+    "share_compare_3plus_stores": 0.51,
+    "mean_wtp_aed": 6.09,
+    "share_wtp_zero": 0.295,
+    "share_prefer_only_big_savings_alerts": 0.471,
+    "share_share_receipts": 0.421,
+    "top_challenges": [
+      [
+        "ch_promo_overload",
+        0.556
+      ],
+      [
+        "ch_time_comparing",
+        0.53
+      ],
+      [
+        "ch_price_inconsistency",
+        0.512
+      ]
+    ],
+    "top_features": [
+      [
+        "f_smart_basket",
+        0.648
+      ],
+      [
+        "f_wishlist_alerts",
+        0.587
+      ],
+      [
+        "f_price_compare",
+        0.573
+      ],
+      [
+        "f_promo_digest",
+        0.528
+      ]
+    ],
+    "adoption_by_income": {
+      "<5,000": 0.573,
+      "5,000-9,999": 0.542,
+      "10,000-19,999": 0.399,
+      "20,000-34,999": 0.267,
+      "35,000+": 0.234
+    },
+    "top_correlates_with_adoption": {
+      "nps_concept": 0.57,
+      "price_seeker_index": 0.56,
+      "lk_compare_often": 0.48,
+      "lk_switch_for_savings": 0.45,
+      "lk_brand_loyal": -0.43,
+      "feature_count": 0.39
+    }
+  },
+  "classification": {
+    "target": "is_adopter (Q25 = Yes)",
+    "n_features": 57,
+    "n_train": 1368,
+    "n_test": 457,
+    "positive_rate": 0.408,
+    "baseline_accuracy": 0.591,
+    "best_model": "Logistic Regression",
+    "best": {
+      "model": "Logistic Regression",
+      "cv_auc_mean": 0.846,
+      "cv_auc_std": 0.012,
+      "test_accuracy": 0.766,
+      "test_precision": 0.735,
+      "test_recall": 0.668,
+      "test_f1": 0.7,
+      "test_auc": 0.851
+    },
+    "best_confusion_matrix": {
+      "tn": 225,
+      "fp": 45,
+      "fn": 62,
+      "tp": 125
+    },
+    "comparison": [
+      {
+        "model": "Logistic Regression",
+        "cv_auc_mean": 0.846,
+        "cv_auc_std": 0.012,
+        "test_accuracy": 0.766,
+        "test_precision": 0.735,
+        "test_recall": 0.668,
+        "test_f1": 0.7,
+        "test_auc": 0.851
+      },
+      {
+        "model": "Random Forest",
+        "cv_auc_mean": 0.844,
+        "cv_auc_std": 0.015,
+        "test_accuracy": 0.777,
+        "test_precision": 0.73,
+        "test_recall": 0.722,
+        "test_f1": 0.726,
+        "test_auc": 0.852
+      },
+      {
+        "model": "Gradient Boosting",
+        "cv_auc_mean": 0.834,
+        "cv_auc_std": 0.019,
+        "test_accuracy": 0.757,
+        "test_precision": 0.709,
+        "test_recall": 0.69,
+        "test_f1": 0.699,
+        "test_auc": 0.842
+      },
+      {
+        "model": "Naive Bayes",
+        "cv_auc_mean": 0.83,
+        "cv_auc_std": 0.012,
+        "test_accuracy": 0.724,
+        "test_precision": 0.62,
+        "test_recall": 0.845,
+        "test_f1": 0.715,
+        "test_auc": 0.832
+      },
+      {
+        "model": "K-Nearest Neighbours",
+        "cv_auc_mean": 0.812,
+        "cv_auc_std": 0.019,
+        "test_accuracy": 0.722,
+        "test_precision": 0.655,
+        "test_recall": 0.679,
+        "test_f1": 0.667,
+        "test_auc": 0.815
+      },
+      {
+        "model": "Decision Tree",
+        "cv_auc_mean": 0.809,
+        "cv_auc_std": 0.019,
+        "test_accuracy": 0.733,
+        "test_precision": 0.741,
+        "test_recall": 0.535,
+        "test_f1": 0.621,
+        "test_auc": 0.81
+      }
+    ],
+    "top_drivers": [
+      [
+        "price_seeker_index",
+        0.0264
+      ],
+      [
+        "spend_per_person_aed",
+        0.0262
+      ],
+      [
+        "lk_compare_often",
+        0.0233
+      ],
+      [
+        "lk_brand_loyal",
+        0.0199
+      ],
+      [
+        "spend_share_of_income",
+        0.0185
+      ],
+      [
+        "lk_switch_for_savings",
+        0.0147
+      ],
+      [
+        "lk_app_comfort",
+        0.0112
+      ],
+      [
+        "income_ord",
+        0.0085
+      ]
+    ],
+    "lead_tiers": [
+      {
+        "lead_tier": "Low",
+        "people": 875,
+        "share_of_sample": 0.479,
+        "actual_yes_rate": 0.123
+      },
+      {
+        "lead_tier": "Medium",
+        "people": 453,
+        "share_of_sample": 0.248,
+        "actual_yes_rate": 0.501
+      },
+      {
+        "lead_tier": "High",
+        "people": 497,
+        "share_of_sample": 0.272,
+        "actual_yes_rate": 0.825
+      }
+    ],
+    "three_class_accuracy": 0.654,
+    "three_class_baseline": 0.409
+  },
+  "clustering": {
+    "features": [
+      "age",
+      "household_size",
+      "income_ord",
+      "spend_per_person_aed",
+      "trips_per_week",
+      "stores_used_regularly",
+      "minutes_comparing_week",
+      "lk_compare_often",
+      "lk_switch_for_savings",
+      "lk_brand_loyal",
+      "lk_app_comfort",
+      "lk_notif_annoyed",
+      "shops_online",
+      "challenge_count",
+      "feature_count"
+    ],
+    "k_selection": [
+      {
+        "k": 2,
+        "inertia": 21108.968,
+        "smallest_cluster_share": 0.391,
+        "silhouette": 0.207,
+        "davies_bouldin": 1.755,
+        "calinski_harabasz": 541.143
+      },
+      {
+        "k": 3,
+        "inertia": 19074.819,
+        "smallest_cluster_share": 0.182,
+        "silhouette": 0.148,
+        "davies_bouldin": 1.869,
+        "calinski_harabasz": 396.411
+      },
+      {
+        "k": 4,
+        "inertia": 17501.104,
+        "smallest_cluster_share": 0.182,
+        "silhouette": 0.145,
+        "davies_bouldin": 2.116,
+        "calinski_harabasz": 342.462
+      },
+      {
+        "k": 5,
+        "inertia": 16679.239,
+        "smallest_cluster_share": 0.182,
+        "silhouette": 0.142,
+        "davies_bouldin": 2.276,
+        "calinski_harabasz": 291.774
+      },
+      {
+        "k": 6,
+        "inertia": 16189.025,
+        "smallest_cluster_share": 0.129,
+        "silhouette": 0.135,
+        "davies_bouldin": 2.322,
+        "calinski_harabasz": 251.371
+      },
+      {
+        "k": 7,
+        "inertia": 15840.751,
+        "smallest_cluster_share": 0.085,
+        "silhouette": 0.116,
+        "davies_bouldin": 2.523,
+        "calinski_harabasz": 220.626
+      },
+      {
+        "k": 8,
+        "inertia": 15520.01,
+        "smallest_cluster_share": 0.068,
+        "silhouette": 0.125,
+        "davies_bouldin": 2.41,
+        "calinski_harabasz": 198.274
+      },
+      {
+        "k": 9,
+        "inertia": 15203.183,
+        "smallest_cluster_share": 0.081,
+        "silhouette": 0.108,
+        "davies_bouldin": 2.606,
+        "calinski_harabasz": 181.738
+      }
+    ],
+    "elbow_k": 8,
+    "chosen_k": 5,
+    "silhouette": 0.142,
+    "kmeans_vs_ward_ari": 0.607,
+    "ari_vs_hidden_personas": 0.745,
+    "segments": [
+      {
+        "segment": "Deal Hunters",
+        "size": 360,
+        "share": 0.197,
+        "adoption_rate": 0.77,
+        "avg_wtp_aed": 9.38,
+        "premium_share": 0.46,
+        "nps": 35.0,
+        "top_features": "price_compare, wishlist_alerts, smart_basket",
+        "top_challenges": "price_inconsistency, time_comparing"
+      },
+      {
+        "segment": "Students & Flat-sharers",
+        "size": 339,
+        "share": 0.186,
+        "adoption_rate": 0.53,
+        "avg_wtp_aed": 2.19,
+        "premium_share": 0.19,
+        "nps": -11.21,
+        "top_features": "budget_planner, price_compare, shared_list",
+        "top_challenges": "price_inconsistency, time_comparing"
+      },
+      {
+        "segment": "Budget Families",
+        "size": 374,
+        "share": 0.205,
+        "adoption_rate": 0.51,
+        "avg_wtp_aed": 6.97,
+        "premium_share": 0.33,
+        "nps": -16.04,
+        "top_features": "smart_basket, price_compare, shared_list",
+        "top_challenges": "time_comparing, price_inconsistency"
+      },
+      {
+        "segment": "Busy Professionals",
+        "size": 420,
+        "share": 0.23,
+        "adoption_rate": 0.22,
+        "avg_wtp_aed": 9.07,
+        "premium_share": 0.2,
+        "nps": -61.9,
+        "top_features": "delivery_fee_compare, smart_basket, wishlist_alerts",
+        "top_challenges": "promo_overload, hidden_delivery_fees"
+      },
+      {
+        "segment": "Loyal Convenience Shoppers",
+        "size": 332,
+        "share": 0.182,
+        "adoption_rate": 0.02,
+        "avg_wtp_aed": 1.77,
+        "premium_share": 0.0,
+        "nps": -100.0,
+        "top_features": "loyalty_wallet, shared_list, expiry_tracker",
+        "top_challenges": "out_of_stock, promo_overload"
+      }
+    ]
+  },
+  "association": {
+    "items_used": [
+      "ch_price_inconsistency",
+      "ch_hidden_delivery_fees",
+      "ch_expired_offers",
+      "ch_out_of_stock",
+      "ch_promo_overload",
+      "ch_time_comparing",
+      "ch_bad_substitutions",
+      "f_price_compare",
+      "f_smart_basket",
+      "f_price_history",
+      "f_wishlist_alerts",
+      "f_promo_digest",
+      "f_delivery_fee_compare",
+      "f_loyalty_wallet",
+      "f_expiry_tracker",
+      "f_budget_planner",
+      "f_shared_list"
+    ],
+    "min_support": 0.08,
+    "min_confidence": 0.6,
+    "min_lift": 1.1,
+    "n_frequent_itemsets": 1307,
+    "n_rules": 307,
+    "rules_by_family": {
+      "mixed -> feature": 100,
+      "mixed -> challenge": 69,
+      "feature -> challenge": 57,
+      "feature -> feature": 38,
+      "challenge -> feature": 29,
+      "challenge -> challenge": 14
+    },
+    "top_challenge_to_challenge": [
+      [
+        "bad_substitutions + time_comparing  ->  hidden_delivery_fees",
+        0.148,
+        0.705,
+        1.686
+      ],
+      [
+        "bad_substitutions  ->  hidden_delivery_fees",
+        0.257,
+        0.652,
+        1.56
+      ],
+      [
+        "hidden_delivery_fees  ->  bad_substitutions",
+        0.257,
+        0.615,
+        1.56
+      ],
+      [
+        "price_inconsistency + promo_overload + time_comparing  ->  expired_offers",
+        0.114,
+        0.606,
+        1.539
+      ],
+      [
+        "expired_offers + price_inconsistency  ->  time_comparing",
+        0.203,
+        0.807,
+        1.521
+      ]
+    ],
+    "top_challenge_to_feature": [
+      [
+        "hidden_delivery_fees  ->  delivery_fee_compare",
+        0.325,
+        0.777,
+        1.535
+      ],
+      [
+        "expired_offers + price_inconsistency  ->  wishlist_alerts",
+        0.209,
+        0.828,
+        1.411
+      ],
+      [
+        "bad_substitutions + expired_offers  ->  wishlist_alerts",
+        0.111,
+        0.802,
+        1.367
+      ],
+      [
+        "expired_offers + price_inconsistency  ->  price_compare",
+        0.196,
+        0.776,
+        1.355
+      ],
+      [
+        "expired_offers  ->  wishlist_alerts",
+        0.302,
+        0.766,
+        1.306
+      ]
+    ],
+    "top_feature_to_feature": [
+      [
+        "price_compare + price_history  ->  wishlist_alerts",
+        0.22,
+        0.895,
+        1.526
+      ],
+      [
+        "price_history  ->  wishlist_alerts",
+        0.286,
+        0.791,
+        1.348
+      ],
+      [
+        "price_history + wishlist_alerts  ->  price_compare",
+        0.22,
+        0.77,
+        1.345
+      ],
+      [
+        "promo_digest + shared_list + wishlist_alerts  ->  price_compare",
+        0.138,
+        0.746,
+        1.302
+      ],
+      [
+        "budget_planner + wishlist_alerts  ->  price_compare",
+        0.18,
+        0.727,
+        1.27
+      ]
+    ],
+    "mvp_size": 4,
+    "mvp_features": [
+      "f_smart_basket",
+      "f_price_compare",
+      "f_wishlist_alerts",
+      "f_shared_list"
+    ],
+    "mvp_implied_features": [],
+    "coverage_curve": [
+      [
+        1,
+        "f_smart_basket",
+        0.0,
+        0.0
+      ],
+      [
+        2,
+        "f_price_compare",
+        0.619,
+        0.619
+      ],
+      [
+        3,
+        "f_wishlist_alerts",
+        0.863,
+        0.244
+      ],
+      [
+        4,
+        "f_shared_list",
+        0.936,
+        0.072
+      ],
+      [
+        5,
+        "f_delivery_fee_compare",
+        0.972,
+        0.036
+      ],
+      [
+        6,
+        "f_budget_planner",
+        0.988,
+        0.016
+      ],
+      [
+        7,
+        "f_loyalty_wallet",
+        0.995,
+        0.007
+      ],
+      [
+        8,
+        "f_promo_digest",
+        1.0,
+        0.005
+      ],
+      [
+        9,
+        "f_price_history",
+        1.0,
+        0.0
+      ],
+      [
+        10,
+        "f_expiry_tracker",
+        1.0,
+        0.0
+      ]
+    ]
+  },
+  "regression": {
+    "target": "wtp_aed_month (Q20)",
+    "n": 1786,
+    "n_train": 1339,
+    "n_test": 447,
+    "mean_wtp": 6.09,
+    "median_wtp": 5.0,
+    "share_zero": 0.302,
+    "best_model": "Random Forest",
+    "best": {
+      "model": "Random Forest",
+      "cv_r2_mean": 0.402,
+      "cv_r2_std": 0.051,
+      "test_r2": 0.441,
+      "test_mae": 2.989,
+      "test_rmse": 4.278
+    },
+    "comparison": [
+      {
+        "model": "Random Forest",
+        "cv_r2_mean": 0.402,
+        "cv_r2_std": 0.051,
+        "test_r2": 0.441,
+        "test_mae": 2.989,
+        "test_rmse": 4.278
+      },
+      {
+        "model": "Lasso",
+        "cv_r2_mean": 0.387,
+        "cv_r2_std": 0.056,
+        "test_r2": 0.47,
+        "test_mae": 2.827,
+        "test_rmse": 4.168
+      },
+      {
+        "model": "Ridge",
+        "cv_r2_mean": 0.378,
+        "cv_r2_std": 0.057,
+        "test_r2": 0.475,
+        "test_mae": 2.792,
+        "test_rmse": 4.149
+      },
+      {
+        "model": "Gradient Boosting",
+        "cv_r2_mean": 0.378,
+        "cv_r2_std": 0.07,
+        "test_r2": 0.416,
+        "test_mae": 2.978,
+        "test_rmse": 4.373
+      },
+      {
+        "model": "Linear Regression (OLS)",
+        "cv_r2_mean": 0.375,
+        "cv_r2_std": 0.055,
+        "test_r2": 0.467,
+        "test_mae": 2.796,
+        "test_rmse": 4.179
+      },
+      {
+        "model": "Baseline (predict mean)",
+        "cv_r2_mean": 0.0,
+        "cv_r2_std": 0.0,
+        "test_r2": -0.013,
+        "test_mae": 4.668,
+        "test_rmse": 5.762
+      }
+    ],
+    "top_drivers": [
+      [
+        "spend_per_person_aed",
+        0.1887
+      ],
+      [
+        "price_seeker_index",
+        0.1412
+      ],
+      [
+        "age",
+        0.0363
+      ],
+      [
+        "f_delivery_fee_compare",
+        0.031
+      ],
+      [
+        "income_ord",
+        0.0252
+      ],
+      [
+        "monthly_grocery_spend_aed",
+        0.0232
+      ],
+      [
+        "f_wishlist_alerts",
+        0.0164
+      ],
+      [
+        "lk_app_comfort",
+        0.0136
+      ]
+    ],
+    "features_adding_wtp": [
+      [
+        "f_delivery_fee_compare",
+        1.6188
+      ],
+      [
+        "f_smart_basket",
+        1.3704
+      ],
+      [
+        "f_wishlist_alerts",
+        1.1422
+      ],
+      [
+        "f_price_history",
+        1.0174
+      ],
+      [
+        "f_price_compare",
+        0.2849
+      ]
+    ],
+    "income_effect_aed_per_band": 1.4014,
+    "best_price_aed": 9,
+    "share_adopters_willing_at_best_price": 0.506,
+    "mean_wtp_adopters": 8.68
+  },
+  "business_case": {
+    "price_aed": 9,
+    "assumptions": {
+      "downloads_per_year": {
+        "Conservative": [
+          25000,
+          60000,
+          110000
+        ],
+        "Base": [
+          50000,
+          120000,
+          220000
+        ],
+        "Optimistic": [
+          90000,
+          200000,
+          350000
+        ]
+      },
+      "monthly_active_rate": 0.35,
+      "premium_conversion_of_active": {
+        "Conservative": 0.02,
+        "Base": 0.04,
+        "Optimistic": 0.06
+      },
+      "ad_revenue_per_free_mau_aed_month": 0.4,
+      "partner_revenue_per_mau_aed_month": {
+        "Conservative": 0.2,
+        "Base": 0.45,
+        "Optimistic": 0.7
+      },
+      "team_cost": [
+        420000,
+        780000,
+        1150000
+      ],
+      "data_and_infra_cost": [
+        120000,
+        200000,
+        300000
+      ],
+      "cac_aed_per_download": 6.0,
+      "app_store_fee_on_premium": 0.15
+    },
+    "year3_base": {
+      "scenario": "Base",
+      "year": 3,
+      "downloads": 220000,
+      "monthly_active_users": 136500,
+      "premium_subscribers": 5460,
+      "revenue_premium": 501228,
+      "revenue_ads": 628992,
+      "revenue_partners": 737100,
+      "total_revenue": 1867320,
+      "total_cost": 2770000,
+      "operating_profit": -902680
+    },
+    "year3_revenue_mix_base": {
+      "revenue_premium": 0.268,
+      "revenue_ads": 0.337,
+      "revenue_partners": 0.395
+    },
+    "breakeven_partner_rev_per_mau_year3_base": 1.0,
+    "sensitivity": [
+      {
+        "cac_aed": 3.0,
+        "partner_rev_per_mau_aed": 0.2,
+        "year3_profit": -652180,
+        "cumulative_3yr_profit": -1859820
+      },
+      {
+        "cac_aed": 3.0,
+        "partner_rev_per_mau_aed": 0.45,
+        "year3_profit": -242680,
+        "cumulative_3yr_profit": -1219320
+      },
+      {
+        "cac_aed": 3.0,
+        "partner_rev_per_mau_aed": 0.7,
+        "year3_profit": 166820,
+        "cumulative_3yr_profit": -578820
+      },
+      {
+        "cac_aed": 3.0,
+        "partner_rev_per_mau_aed": 1.0,
+        "year3_profit": 658220,
+        "cumulative_3yr_profit": 189780
+      },
+      {
+        "cac_aed": 3.0,
+        "partner_rev_per_mau_aed": 1.3,
+        "year3_profit": 1149620,
+        "cumulative_3yr_profit": 958380
+      },
+      {
+        "cac_aed": 4.5,
+        "partner_rev_per_mau_aed": 0.2,
+        "year3_profit": -982180,
+        "cumulative_3yr_profit": -2444820
+      },
+      {
+        "cac_aed": 4.5,
+        "partner_rev_per_mau_aed": 0.45,
+        "year3_profit": -572680,
+        "cumulative_3yr_profit": -1804320
+      },
+      {
+        "cac_aed": 4.5,
+        "partner_rev_per_mau_aed": 0.7,
+        "year3_profit": -163180,
+        "cumulative_3yr_profit": -1163820
+      },
+      {
+        "cac_aed": 4.5,
+        "partner_rev_per_mau_aed": 1.0,
+        "year3_profit": 328220,
+        "cumulative_3yr_profit": -395220
+      },
+      {
+        "cac_aed": 4.5,
+        "partner_rev_per_mau_aed": 1.3,
+        "year3_profit": 819620,
+        "cumulative_3yr_profit": 373380
+      },
+      {
+        "cac_aed": 6.0,
+        "partner_rev_per_mau_aed": 0.2,
+        "year3_profit": -1312180,
+        "cumulative_3yr_profit": -3029820
+      },
+      {
+        "cac_aed": 6.0,
+        "partner_rev_per_mau_aed": 0.45,
+        "year3_profit": -902680,
+        "cumulative_3yr_profit": -2389320
+      },
+      {
+        "cac_aed": 6.0,
+        "partner_rev_per_mau_aed": 0.7,
+        "year3_profit": -493180,
+        "cumulative_3yr_profit": -1748820
+      },
+      {
+        "cac_aed": 6.0,
+        "partner_rev_per_mau_aed": 1.0,
+        "year3_profit": -1780,
+        "cumulative_3yr_profit": -980220
+      },
+      {
+        "cac_aed": 6.0,
+        "partner_rev_per_mau_aed": 1.3,
+        "year3_profit": 489620,
+        "cumulative_3yr_profit": -211620
+      },
+      {
+        "cac_aed": 9.0,
+        "partner_rev_per_mau_aed": 0.2,
+        "year3_profit": -1972180,
+        "cumulative_3yr_profit": -4199820
+      },
+      {
+        "cac_aed": 9.0,
+        "partner_rev_per_mau_aed": 0.45,
+        "year3_profit": -1562680,
+        "cumulative_3yr_profit": -3559320
+      },
+      {
+        "cac_aed": 9.0,
+        "partner_rev_per_mau_aed": 0.7,
+        "year3_profit": -1153180,
+        "cumulative_3yr_profit": -2918820
+      },
+      {
+        "cac_aed": 9.0,
+        "partner_rev_per_mau_aed": 1.0,
+        "year3_profit": -661780,
+        "cumulative_3yr_profit": -2150220
+      },
+      {
+        "cac_aed": 9.0,
+        "partner_rev_per_mau_aed": 1.3,
+        "year3_profit": -170380,
+        "cumulative_3yr_profit": -1381620
+      }
+    ],
+    "first_profitable_year": {
+      "Conservative": null,
+      "Base": null,
+      "Optimistic": 3
+    }
+  }
+}

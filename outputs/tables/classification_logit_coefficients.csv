@@ -1,0 +1,58 @@
+feature,std_coefficient
+lk_compare_often,0.505
+spend_per_person_aed,-0.489
+price_seeker_index,0.474
+lk_brand_loyal,-0.396
+spend_share_of_income,0.385
+lk_app_comfort,0.297
+f_wishlist_alerts,0.293
+income_ord,0.288
+lk_switch_for_savings,0.288
+monthly_grocery_spend_aed,0.268
+age,0.228
+household_size,-0.218
+f_price_compare,0.188
+f_smart_basket,0.177
+minutes_comparing_week,0.177
+f_delivery_fee_compare,0.163
+f_shared_list,-0.16
+ch_price_inconsistency,0.151
+f_expiry_tracker,-0.148
+f_budget_planner,-0.142
+occupation_Student,0.132
+promo_notif_ord,0.125
+challenge_count,0.107
+feature_count,0.096
+occupation_Homemaker,0.092
+occupation_Employed part-time,0.089
+nationality_group_Southeast Asian,-0.087
+ch_expired_offers,0.075
+f_loyalty_wallet,-0.073
+emirate_Dubai,0.072
+ch_hidden_delivery_fees,0.071
+f_price_history,0.065
+lk_notif_annoyed,0.058
+emirate_Ras Al Khaimah,0.056
+primary_channel_Online/app delivery,-0.052
+ch_time_comparing,0.051
+shares_receipts,-0.05
+nationality_group_South Asian,-0.049
+ch_out_of_stock,0.047
+occupation_Self-employed,-0.044
+emirate_Ajman,0.043
+stores_used_regularly,0.042
+occupation_Retired/Not working,0.04
+gender_Male,0.04
+ch_bad_substitutions,-0.036
+ch_promo_overload,-0.032
+primary_channel_Mix of both,0.029
+emirate_Fujairah,0.028
+nationality_group_Emirati,-0.025
+gender_Prefer not to say,0.022
+trips_per_week,0.021
+emirate_Umm Al Quwain,-0.021
+shops_online,-0.019
+nationality_group_Western,-0.013
+nationality_group_Other,-0.008
+f_promo_digest,-0.007
+emirate_Sharjah,0.006

@@ -1,0 +1,6 @@
+segment,f_price_compare,f_smart_basket,f_price_history,f_wishlist_alerts,f_promo_digest,f_delivery_fee_compare,f_loyalty_wallet,f_expiry_tracker,f_budget_planner,f_shared_list,ch_price_inconsistency,ch_hidden_delivery_fees,ch_expired_offers,ch_out_of_stock,ch_promo_overload,ch_time_comparing,ch_bad_substitutions
+Budget Families,0.73,0.81,0.42,0.66,0.64,0.33,0.4,0.34,0.57,0.7,0.62,0.24,0.51,0.35,0.52,0.64,0.21
+Busy Professionals,0.45,0.67,0.28,0.66,0.44,0.83,0.42,0.26,0.2,0.32,0.4,0.7,0.24,0.46,0.78,0.55,0.69
+Deal Hunters,0.86,0.84,0.69,0.86,0.65,0.49,0.42,0.28,0.42,0.52,0.81,0.46,0.75,0.42,0.59,0.76,0.4
+Loyal Convenience Shoppers,0.11,0.22,0.1,0.18,0.25,0.22,0.55,0.33,0.11,0.35,0.14,0.17,0.09,0.48,0.48,0.13,0.31
+Students & Flat-sharers,0.71,0.66,0.31,0.53,0.64,0.59,0.23,0.19,0.72,0.69,0.59,0.46,0.37,0.22,0.36,0.54,0.32

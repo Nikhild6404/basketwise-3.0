@@ -1,0 +1,57 @@
+feature,aed_per_1sd,aed_if_ticked_or_per_unit
+income_ord,1.6704,1.4014
+occupation_Student,-0.9201,-2.7361
+lk_app_comfort,0.8989,0.9295
+lk_switch_for_savings,0.8457,0.6912
+f_delivery_fee_compare,0.8096,1.6188
+monthly_grocery_spend_aed,0.7963,0.0006
+f_smart_basket,0.655,1.3704
+lk_compare_often,0.632,0.5307
+f_wishlist_alerts,0.5626,1.1422
+f_price_history,0.488,1.0174
+feature_count,0.4782,0.2576
+lk_brand_loyal,-0.4414,-0.3778
+f_budget_planner,-0.383,-0.7822
+lk_notif_annoyed,0.2902,0.3091
+ch_time_comparing,0.2653,0.5313
+occupation_Employed part-time,-0.262,-0.959
+promo_notif_ord,0.2533,0.2597
+nationality_group_South Asian,-0.2409,-0.4997
+challenge_count,0.2395,0.1568
+age,0.22,0.0218
+minutes_comparing_week,0.2125,0.0052
+f_shared_list,-0.2107,-0.4214
+occupation_Retired/Not working,-0.2083,-0.9836
+trips_per_week,0.2046,0.1213
+nationality_group_Other,-0.1844,-0.7511
+occupation_Self-employed,-0.1806,-0.5725
+ch_out_of_stock,0.1635,0.335
+ch_hidden_delivery_fees,0.1567,0.3176
+nationality_group_Southeast Asian,-0.1541,-0.444
+ch_price_inconsistency,0.1462,0.2924
+f_price_compare,0.141,0.2849
+shops_online,0.1202,0.2445
+stores_used_regularly,-0.1138,-0.0658
+occupation_Homemaker,-0.1076,-0.3513
+emirate_Ras Al Khaimah,0.0999,0.5078
+primary_channel_Mix of both,0.0978,0.2078
+f_expiry_tracker,-0.0952,-0.212
+f_promo_digest,-0.0851,-0.1704
+gender_Male,-0.0783,-0.1583
+household_size,0.0709,0.0502
+emirate_Ajman,0.0677,0.2714
+f_loyalty_wallet,-0.0673,-0.1371
+ch_bad_substitutions,-0.0632,-0.1293
+emirate_Sharjah,0.0595,0.1577
+ch_promo_overload,0.0552,0.111
+shares_receipts,-0.0451,-0.0913
+spend_per_person_aed,0.0405,0.0001
+primary_channel_Online/app delivery,0.0298,0.0678
+emirate_Fujairah,0.0278,0.1452
+spend_share_of_income,-0.0273,-0.1813
+nationality_group_Emirati,0.0166,0.0511
+ch_expired_offers,0.0135,0.0276
+gender_Prefer not to say,-0.0114,-0.078
+nationality_group_Western,-0.0072,-0.0243
+emirate_Umm Al Quwain,-0.0057,-0.0368
+emirate_Dubai,-0.0019,-0.0039

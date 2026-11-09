@@ -1,0 +1,14 @@
+family,rule,support,confidence,lift,leverage,conviction
+challenge -> challenge,bad_substitutions + time_comparing  ->  hidden_delivery_fees,0.148,0.705,1.686,0.06,1.972
+challenge -> challenge,bad_substitutions  ->  hidden_delivery_fees,0.257,0.652,1.56,0.092,1.674
+challenge -> challenge,hidden_delivery_fees  ->  bad_substitutions,0.257,0.615,1.56,0.092,1.573
+challenge -> challenge,price_inconsistency + promo_overload + time_comparing  ->  expired_offers,0.114,0.606,1.539,0.04,1.54
+challenge -> challenge,expired_offers + price_inconsistency  ->  time_comparing,0.203,0.807,1.521,0.07,2.427
+challenge -> challenge,expired_offers + time_comparing  ->  price_inconsistency,0.203,0.751,1.467,0.065,1.961
+challenge -> challenge,expired_offers  ->  time_comparing,0.271,0.687,1.295,0.062,1.501
+challenge -> challenge,time_comparing  ->  price_inconsistency,0.341,0.643,1.256,0.069,1.366
+challenge -> challenge,price_inconsistency  ->  time_comparing,0.341,0.666,1.256,0.069,1.406
+challenge -> challenge,expired_offers  ->  price_inconsistency,0.252,0.64,1.25,0.05,1.355
+challenge -> challenge,hidden_delivery_fees + out_of_stock  ->  promo_overload,0.109,0.67,1.206,0.019,1.347
+challenge -> challenge,bad_substitutions  ->  promo_overload,0.25,0.636,1.144,0.032,1.22
+challenge -> challenge,hidden_delivery_fees  ->  promo_overload,0.264,0.632,1.137,0.032,1.207

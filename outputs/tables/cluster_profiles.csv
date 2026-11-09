@@ -1,0 +1,6 @@
+segment,size,age,household_size,income_ord,monthly_spend_aed,stores_used,minutes_comparing,brand_loyal,app_comfort,notif_annoyed,shops_online,student_share,adoption_rate,avg_wtp_aed,premium_share,nps,share,top_features,top_challenges
+Deal Hunters,360,35.88,4.13,2.82,2427.51,4.19,64.0,2.01,3.93,2.87,0.68,0.04,0.77,9.38,0.46,35.0,0.197,"price_compare, wishlist_alerts, smart_basket","price_inconsistency, time_comparing"
+Students & Flat-sharers,339,22.4,4.12,1.57,1232.33,2.88,33.0,1.93,4.45,3.44,0.55,0.63,0.53,2.19,0.19,-11.21,0.186,"budget_planner, price_compare, shared_list","price_inconsistency, time_comparing"
+Budget Families,374,37.91,5.59,2.71,2936.91,3.19,39.0,2.51,3.29,3.69,0.3,0.02,0.51,6.97,0.33,-16.04,0.205,"smart_basket, price_compare, shared_list","time_comparing, price_inconsistency"
+Busy Professionals,420,32.66,3.09,3.62,2637.94,2.33,18.0,2.96,4.38,4.15,0.92,0.0,0.22,9.07,0.2,-61.9,0.23,"delivery_fee_compare, smart_basket, wishlist_alerts","promo_overload, hidden_delivery_fees"
+Loyal Convenience Shoppers,332,46.19,3.59,3.82,3842.52,1.7,7.0,4.23,3.02,3.83,0.45,0.0,0.02,1.77,0.0,-100.0,0.182,"loyalty_wallet, shared_list, expiry_tracker","out_of_stock, promo_overload"
